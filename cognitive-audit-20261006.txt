@@ -1,0 +1,3043 @@
+============================================================
+REPORT 1 OF 4
+MAURICIO — CHATGPT
+SOURCE FILE: Mgpt.txt
+============================================================
+
+CARTOGRAFÍA COGNITIVA DE MAURICIO
+Versión 1 — basada en comportamiento histórico observable en ChatGPT
+Voy a respetar una distinción importante durante todo el informe:
+- HECHO OBSERVADO: aparece directamente en decisiones, proyectos o comportamientos históricos.
+- PATRÓN: repetición consistente de varios hechos.
+- INTERPRETACIÓN: explicación que parece encajar con esos patrones.
+- HIPÓTESIS: inferencia plausible todavía no suficientemente probada.
+- AUTOIMAGEN: cosas que Mauricio dice de sí mismo; no las usaré como prueba salvo que el comportamiento las respalde.
+- CONFIANZA: Alta / Media / Baja.
+La conclusión adelantada es importante: no veo a Mauricio principalmente como “empresario”, “programador”, “marketero” o “administrador”. El patrón más distintivo parece ser otro: detecta fricción real, descubre conexiones entre sistemas que originalmente estaban separados y trata de convertir esas conexiones en una máquina operacional.
+Eso tiene bastante más potencial del que actualmente está capturando.
+1. Evidencia disponible
+La evidencia disponible es inusualmente rica para este tipo de análisis.
+Tengo observaciones históricas sobre:
+- MRPS como empresa real;
+- tienda física;
+- Jumpseller;
+- Mercado Libre;
+- ORU;
+- Google Merchant;
+- GA4;
+- Search Console;
+- Google Ads;
+- inventario;
+- costos;
+- rentabilidad;
+- proveedores;
+- Cambridge;
+- importaciones;
+- catálogo;
+- fotografías y ecommerce;
+- mayoristas;
+- clientes;
+- Airbnb;
+- compras;
+- negociaciones;
+- pricing;
+- automatizaciones;
+- Claude;
+- Codex;
+- ChatGPT;
+- Obsidian;
+- Control Center;
+- Opportunity Engine;
+- conciliaciones;
+- construcción de software;
+- pruebas de escritura remota;
+- errores técnicos;
+- diseño de sistemas de seguridad;
+- inversiones bursátiles;
+- nuevas oportunidades comerciales.
+También existe evidencia longitudinal: no estoy viendo una semana aislada, sino una evolución durante meses.
+Esto permite distinguir entre comportamiento ocasional y comportamiento recurrente.
+Confianza de esta sección: ALTA.
+2. Trayectoria observable
+Hay una transición bastante clara.
+Etapa inicial observable
+El problema era principalmente:
+“¿Cómo vendo mejor y ordeno el negocio?”
+Aparecen:
+ventas, precios, catálogo, stock, ecommerce, Mercado Libre, proveedores, mayoristas.
+Después el problema cambia.
+Segunda etapa
+Pasa a ser:
+“¿Cómo puedo entender el negocio utilizando los datos que ya existen?”
+Aparecen:
+rentabilidad, rotación, cruces ORU/proveedores, búsqueda de oportunidades, comparaciones, analítica.
+Después ocurre otro cambio.
+Tercera etapa
+La pregunta se vuelve:
+“¿Cómo convierto ese conocimiento en sistemas reutilizables?”
+Aparecen:
+Obsidian, CLaiUD, Claude, Codex, pipelines, workflows, normalizadores, reglas, herramientas.
+Etapa actual
+La pregunta parece ser:
+¿Cómo convierto una empresa fragmentada en un sistema donde información → análisis → decisión → ejecución → verificación puedan conectarse?
+
+El Control Center, Opportunity Engine, sincronización de stock, inteligencia de proveedores y conciliación multicanal son expresiones diferentes de esta misma obsesión.
+Interpretación
+No estás simplemente digitalizando MRPS.
+Estás utilizando MRPS como laboratorio para aprender a construir sistemas operacionales asistidos por IA.
+Esto aparece repetidamente incluso cuando los proyectos llevan nombres distintos.
+Confianza: ALTA.
+3. Sistema cognitivo
+Mi reconstrucción provisional es:
+FRICCIÓN / ANOMALÍA
+↓
+“¿Por qué pasa esto?”
+↓
+EXPANSIÓN DEL PROBLEMA
+↓
+descubrimiento de sistemas relacionados
+↓
+INVESTIGACIÓN INTENSA
+↓
+formación rápida de hipótesis
+↓
+PROTOTIPO / PRUEBA
+↓
+resultado real
+↓
+CORRECCIÓN
+↓
+nueva capa de abstracción
+↓
+SISTEMA / REGLA / AUTOMATIZACIÓN
+Pero existe una bifurcación.
+Después de construir algo funcional puedes tomar dos caminos:
+A. cerrarlo y operarlo
+o
+B. descubrir una posibilidad todavía más interesante dentro del problema y abrir una nueva capa.
+El camino B aparece con mucha frecuencia.
+Ahí nace una parte importante de tu capacidad y también una parte importante de tu dispersión.
+4. Sistema de decisión
+No pareces tomar decisiones utilizando una única epistemología.
+Usas una combinación bastante particular:
+Intuición inicial fuerte
+Detectas rápidamente:
+- que algo “no cuadra”;
+- que un precio probablemente está mal;
+- que un producto podría tener demanda;
+- que hay una oportunidad;
+- que una arquitectura parece innecesariamente compleja.
+Pero después buscas evidencia.
+Eso produce una combinación interesante:
+intuición rápida + necesidad creciente de validación objetiva.
+
+Por ejemplo, has rechazado progresivamente reglas simplistas como:
+- stock bajo = comprar;
+- margen alto = buen producto;
+- proveedor barato = oportunidad;
+- abandono de carrito = problema de despacho;
+- discrepancia entre canales = corregir automáticamente.
+Has ido incorporando:
+demanda + rotación + margen + identidad + stock + proveedor + competencia + riesgo.
+Mecanismo dominante de decisión
+Tu forma favorita de resolver incertidumbre parece ser:
+hacer una prueba pequeña y reversible.
+Canarios, observaciones read-only, muestras, sondas bursátiles, pilotos y escrituras individuales aparecen repetidamente.
+Eso es bastante consistente.
+Confianza: ALTA.
+5. Sistema de ejecución
+Aquí conviene separar las diez fases que propusiste.
+Fase	Evaluación provisional	Confianza
+Detectar	Muy alta	Alta
+Idear	Muy alta	Alta
+Investigar	Alta	Alta
+Decidir	Alta, pero puede demorarse al expandirse el problema	Alta
+Comenzar	Muy alta	Alta
+Construir	Alta y aumentando rápidamente	Alta
+Terminar	Media	Alta
+Operar	Media	Media
+Optimizar	Muy alta	Alta
+Escalar	Todavía no demostrado suficientemente	Media
+
+
+Esta tabla probablemente es una de las conclusiones centrales del análisis.
+El desequilibrio
+Tu capacidad de:
+DETECTAR → IDEAR → COMENZAR → OPTIMIZAR
+parece superior a tu capacidad de:
+TERMINAR → OPERAR → ESCALAR.
+No significa que no termines cosas.
+Existen sistemas que sí dejaste funcionando: conciliaciones, sincronización Jumpseller, partes del Control Center, procesos de catálogo, evidencias operacionales, etc.
+Pero aparece repetidamente la necesidad de imponer externamente reglas como:
+“Sólo VERIFY permite CLOSE.”
+
+Eso es revelador.
+No fue una regla accidental.
+Es una prótesis diseñada precisamente para compensar un patrón.
+6. Inteligencia comercial
+Esta es probablemente una de las capacidades menos evidentes desde dentro.
+No pareces tener una inteligencia comercial principalmente académica.
+Es situacional.
+Detectas relaciones entre:
+- precio;
+- costo;
+- disponibilidad;
+- sustitutos;
+- demanda;
+- rotación;
+- comportamiento del cliente;
+- competencia;
+- canal;
+- escasez.
+Hay muchos ejemplos pequeños:
+preguntas repetidas de:
+“¿A cuánto se puede vender esto en Chile?”
+
+pero normalmente no te basta el markup.
+Quieres saber:
+demanda + competencia + disponibilidad + margen + velocidad probable.
+
+Eso es conceptualmente mejor que preguntar simplemente:
+costo × 2.
+
+También aparece una fuerte sensibilidad hacia microineficiencias comerciales.
+Ejemplos:
+- SKU con stock pero mal representado;
+- producto sin presencia web;
+- equivalencia que el consumidor buscaría;
+- precio mayorista que genera demasiado poco margen;
+- producto Cambridge interesante pero económicamente inviable;
+- stock existente que otro canal cree inexistente;
+- posibilidad de vender packs;
+- intención de búsqueda que no está capturada.
+Hipótesis
+Puedes tener una forma incipiente de arbitraje informacional comercial:
+detectar valor donde dos sistemas o actores manejan información diferente.
+
+Eso aparece en proveedores, canales, equivalencias, inventarios y demanda.
+Confianza: Media-Alta.
+7. Relación con riesgo
+No encajas bien en “arriesgado” o “conservador”.
+Tu perfil cambia mucho según reversibilidad.
+Riesgo exploratorio
+Tolerancia alta.
+Puedes investigar ideas nuevas rápidamente.
+Riesgo financiero grande
+Tolerancia bastante menor.
+Buscas evidencia, margen, demanda, proveedor y rotación antes de comprometer dinero importante.
+Riesgo tecnológico irreversible
+Muy baja tolerancia.
+Repetidamente aparecen:
+- READ_ONLY;
+- canarios;
+- snapshots;
+- rollback;
+- 0 writes;
+- approvals;
+- autoridad única;
+- verify;
+- backups.
+Riesgo operacional
+También relativamente bajo cuando puede afectar negocio real.
+Riesgo reputacional
+Hay señales de cuidado importante:
+mensajes a clientes, garantías, exactitud de productos, no prometer reparaciones que no realizas, etc.
+Contradicción interesante
+Eres agresivo explorando posibilidades y conservador ejecutando irreversibilidades.
+Eso es una combinación productiva.
+Confianza: ALTA.
+8. Relación con información
+No te satisface demasiado recibir información aislada.
+Tu tendencia es preguntar:
+“¿Con qué más podemos cruzar esto?”
+
+Ese comportamiento aparece sistemáticamente.
+Proveedor → ORU → ventas.
+Stock → ecommerce → ML.
+Search Console → catálogo.
+GA4 → productos.
+Merchant → inventario.
+Demanda → proveedor → margen.
+Por eso una capacidad central parece ser:
+Integración contextual
+Tu pensamiento tiende a convertir datos separados en una red causal o operacional.
+Eso probablemente explica por qué los sistemas fragmentados te molestan mucho.
+No es simplemente desorden.
+Pierdes capacidad cognitiva cuando la información está aislada.
+9. Relación con IA
+Aquí aparece uno de los patrones más distintivos.
+No usas IA simplemente como chatbot.
+Ya has desarrollado informalmente una arquitectura multiagente:
+ChatGPT
+- estrategia;
+- memoria;
+- estructuración;
+- investigación;
+- prompts;
+- segunda opinión;
+- diagnóstico;
+- lenguaje comercial.
+Claude / Claude Code
+- análisis profundo del repositorio;
+- auditoría;
+- trabajo prolongado;
+- contexto técnico.
+Codex
+- programación;
+- debugging;
+- implementación;
+- pruebas.
+Mauricio
+- objetivo;
+- criterio comercial;
+- priorización;
+- autorización;
+- interpretación contextual;
+- decisión final.
+Esto ya se parece menos a “usar IA” y más a:
+orquestar un pequeño equipo cognitivo artificial.
+
+Capacidad oculta posible
+Tu ventaja no necesariamente será convertirte en el mejor programador.
+Podría ser convertirte en alguien especialmente bueno diseñando sistemas de trabajo humano + IA + datos + software.
+La evidencia para esto ya es considerable.
+Problema actual
+Sin embargo, tú sigues funcionando como:
+router humano.
+Mueves contexto entre ChatGPT, Claude, Codex, negocio, archivos y decisiones.
+Quieres eliminar esa dependencia, pero todavía eres parte de la infraestructura.
+Ahí existe un cuello de botella importante.
+10. Sistema de aprendizaje
+La evidencia sugiere que aprendes especialmente bien mediante:
+1. Problemas reales
+Mucho más que mediante teoría abstracta.
+2. Construcción
+Entiendes conceptos cuando tienes que utilizarlos.
+3. Iteración con feedback
+Intento → error → corrección.
+4. Contraste
+Comparar:
+MRPS vs Rosher, precio vs competencia, ORU vs Jumpseller, Claude vs ChatGPT.
+5. Conversación
+Utilizas IA como interlocutor para reorganizar pensamiento.
+6. Explicación simplificada
+Pides frecuentemente explicaciones extremadamente sencillas después de investigaciones complejas.
+Eso sugiere que verificas comprensión intentando reducir complejidad.
+No existe evidencia suficiente para afirmar que lectura tradicional sea un mecanismo dominante.
+11. Fortalezas
+Las fortalezas mejor respaldadas son:
+Detección de anomalías
+Probablemente una de las más fuertes.
+Notas cuando sistemas, precios, stocks, identidades o resultados no cuadran.
+Exploración multidominio
+Puedes entrar rápidamente en ecommerce, APIs, relojería, publicidad, proveedores, automatización, análisis o IA.
+Conexión interdisciplinaria
+Tiendes a combinar dominios en vez de mantenerlos separados.
+Experimentación
+Aceptas probar pequeño antes de comprometer recursos grandes.
+Capacidad de iteración
+Los errores rara vez terminan el proyecto inmediatamente.
+Suelen producir una versión más refinada.
+Sensibilidad comercial
+Especialmente alrededor de precio, inventario y oportunidad.
+Curiosidad instrumental
+No investigas solamente por saber.
+Generalmente existe una pregunta implícita:
+“¿Qué puedo hacer con esto?”
+
+12. Costos ocultos de las fortalezas
+Aquí aparecen pares bastante claros.
+Curiosidad
+↔
+apertura excesiva de frentes
+Capacidad de detectar posibilidades
+↔
+dificultad para aceptar que una solución suficientemente buena ya está terminada
+Integración sistémica
+↔
+tendencia a expandir el alcance
+Un problema de stock puede terminar convirtiéndose en una arquitectura completa de inteligencia comercial.
+Velocidad conceptual
+↔
+dependencia de sistemas externos para documentar
+Tu cabeza avanza antes de que quede registrado todo.
+Experimentación
+↔
+proliferación de prototipos
+Capacidad técnica creciente
+↔
+tentación de resolver comercialmente con software algo que quizá podría resolverse manualmente
+Has empezado a desarrollar defensas explícitas contra esto.
+Eso es positivo, pero confirma que el riesgo existe.
+13. Debilidades observables
+No utilizaría “debilidad” para falta de conocimiento técnico. Eso cambia rápidamente.
+Las debilidades estructurales parecen otras.
+Priorización entre oportunidades buenas
+No necesariamente te cuesta reconocer lo malo.
+Te cuesta más elegir entre muchas cosas potencialmente buenas.
+Cierre
+Cerrar definitivamente una exploración parece menos estimulante que descubrir la siguiente capa.
+Operación repetitiva
+Existe poca evidencia de que disfrutes mantener procesos rutinarios durante períodos largos.
+Delegación cognitiva humana
+Has delegado mucho a IA.
+Existe menos evidencia de delegación estructurada a personas.
+Concentración
+Tiendes a aumentar simultáneamente:
+profundidad + alcance.
+Eso produce cargas cognitivas enormes.
+14. Sesgos posibles
+No los considero demostrados completamente.
+Sesgo de complejidad útil
+Cuando un problema tiene muchas conexiones, puedes tender a pensar que la solución también debe representar muchas de ellas.
+Confianza: Media.
+Sesgo del constructor
+Si algo puede automatizarse elegantemente, aumenta su atractivo.
+Confianza: Media-Alta.
+Sesgo hacia oportunidades informacionales
+Puedes sobrevalorar oportunidades intelectualmente interesantes frente a oportunidades aburridas pero altamente rentables.
+Confianza: Media.
+Sesgo de novedad operacional
+Una nueva capacidad puede atraer atención antes de que la anterior haya capturado completamente su valor.
+Confianza: Alta.
+15. Contradicciones productivas
+Existen varias muy interesantes.
+Intuición + auditoría
+Tienes intuiciones rápidas pero progresivamente construyes sistemas para cuestionarlas.
+Eso es potente.
+Impaciencia + controles extremadamente rigurosos
+Quieres avanzar rápido, pero has construido:
+CAS, READ_ONLY, VERIFY, canarios, snapshots.
+La combinación es poco común.
+Exploración + aversión a irreversibilidad
+Puedes abrir posibilidades radicales manteniendo protegida la producción.
+Ambición tecnológica + pragmatismo económico
+Has detenido ideas cuando los números no funcionan.
+Ejemplo recurrente:
+producto interesante → costo final demasiado alto → “inviable”.
+
+Tendencia a construir + creciente conciencia de sobreconstrucción
+Ya has empezado a insertar reglas para detenerte.
+Eso puede ser una evolución importante.
+16. Capacidades diferenciales
+Distingo cinco especialmente interesantes.
+1. Detección de discontinuidades
+Detectas cuando dos representaciones de una misma realidad no coinciden.
+Ejemplo abstracto:
+ORU dice X.
+Jumpseller dice Y.
+Tu cerebro pregunta inmediatamente:
+¿qué mecanismo produjo la discrepancia?
+
+Eso trasciende inventario.
+2. Traducción negocio ↔ tecnología
+Puedes partir de:
+“estoy vendiendo mal este producto”
+y terminar razonando sobre:
+identidades, APIs, workflows, authority models.
+Pero vuelves después a:
+ventas y margen.
+Esa traducción bidireccional tiene valor.
+3. Descubrimiento por composición
+Tu creatividad parece funcionar más por:
+A + B → posibilidad C
+que por inventar desde cero.
+Eso es muy útil empresarialmente.
+4. Prototipado cognitivo acelerado con IA
+Puedes recorrer iteraciones conceptuales extraordinariamente rápido.
+5. Auditoría informal de sistemas
+Cuando algo funciona aparentemente bien, tiendes a buscar:
+“¿pero qué está pasando realmente?”
+
+17. Capacidades dormidas
+Aquí aparecen varias.
+Diseño de sistemas comerciales
+Ya lo haces internamente, pero prácticamente todo el valor se captura dentro de MRPS.
+Podría ser una capacidad profesional independiente.
+Arquitectura humano–IA
+Tu experiencia práctica coordinando modelos probablemente supera lo que tú mismo consideras.
+Todavía la estás tratando principalmente como herramienta personal.
+Descubrimiento estructurado de oportunidades
+Tienes bastante infraestructura y comportamiento alrededor de esto.
+Pero todavía no se ha convertido en una competencia formalizada.
+Auditoría operacional
+La forma en que buscas discrepancias entre sistemas podría generalizarse mucho más allá de relojería.
+18. Potenciales ocultos
+Esta es probablemente la parte más interesante.
+POTENCIAL 1 — Diseñador de empresas aumentadas por IA
+No “empresa que usa ChatGPT”.
+Sino empresas donde:
+datos → agentes → reglas → humano → ejecución
+están diseñados como sistema.
+Confianza: Media-Alta.
+POTENCIAL 2 — Integrador de negocios fragmentados
+Muchísimas PYMEs tienen exactamente el problema que MRPS tenía:
+POS + ecommerce + marketplace + inventario + marketing + Excel + personas.
+Has aprendido utilizando un caso real extremadamente desordenado.
+Ese conocimiento puede transferirse.
+Confianza: Alta.
+POTENCIAL 3 — Detector de oportunidades de cola larga
+Tus intereses en equivalencias, referencias raras, pilas, herramientas técnicas y productos poco visibles sugieren sensibilidad hacia mercados fragmentados y mal servidos.
+Podrías ser especialmente bueno encontrando negocios donde:
+demanda pequeña individualmente + gran cantidad de nichos = mercado importante.
+
+Confianza: Media-Alta.
+POTENCIAL 4 — Diseñador de experimentos empresariales rápidos
+Tu afinidad por canarios y pruebas reversibles podría convertirse en una metodología comercial mucho más explícita.
+Confianza: Alta.
+POTENCIAL 5 — Constructor de infraestructura para decisión
+Tu producto natural quizá no sea “software”.
+Puede ser:
+máquinas para decidir mejor.
+
+Eso describe bastante bien muchos proyectos tuyos.
+Confianza: Media-Alta.
+19. Palancas
+Si tuviera que elegir sólo cinco capacidades que podrían multiplicar enormemente tu producción:
+PALANCA 1
+Formalizar tu capacidad de detectar oportunidades
+Hoy ocurre parcialmente de forma espontánea.
+Convertida en proceso podría aumentar mucho su valor.
+PALANCA 2
+Separar exploración de explotación
+Deberían existir dos estados claramente diferentes:
+LABORATORIO
+y
+OPERACIÓN.
+El laboratorio puede abrir posibilidades.
+La operación debe cerrarlas y capturar valor.
+PALANCA 3
+Eliminarte como bus humano
+La arquitectura ChatGPT ↔ Claude ↔ Codex ↔ negocio todavía depende demasiado de Mauricio.
+Eliminar eso liberaría capacidad mental.
+PALANCA 4
+Pareja complementaria de cierre/operación
+Esta hipótesis será especialmente importante cuando aparezca Cristóbal.
+Una persona capaz de transformar tu expansión de posibilidades en prioridades estables podría producir un efecto multiplicativo.
+Todavía NO puedo afirmar que Cristóbal sea esa persona.
+PALANCA 5
+Transferir capacidades MRPS a otros problemas
+MRPS ya está produciendo conocimiento que excede relojería.
+No todo debe convertirse en otro negocio, pero probablemente existe valor reusable considerable.
+20. Cuellos de botella
+Uno domina claramente.
+CUELLO DE BOTELLA PRINCIPAL
+La cantidad de oportunidades reconocidas supera tu capacidad de cerrarlas operacionalmente.
+No parece faltar inteligencia.
+No parece faltar tecnología.
+No parece faltar curiosidad.
+Tampoco parece faltar iniciativa.
+El recurso escaso parece ser:
+atención sostenida dirigida a capturar completamente el valor de algo que ya funciona.
+
+Segundo cuello:
+Mauricio sigue siendo el integrador universal.
+Tercer cuello:
+No existe evidencia equivalente de una estructura humana organizacional que haya evolucionado a la velocidad de tu estructura tecnológica.
+Eso puede convertirse en problema si el sistema crece.
+21. Arquetipo empresarial emergente
+No te describiría principalmente como operador.
+Tampoco como administrador.
+Tampoco como programador.
+Ni siquiera sólo como emprendedor.
+Mi etiqueta provisional sería:
+ARQUITECTO-EXPLORADOR DE SISTEMAS COMERCIALES
+Con componentes de:
+**detector de anomalías  
+- integrador
+- experimentador
+- constructor
+- comerciante técnico.**
+La función natural parece ser:
+descubrir una estructura que todavía no está organizada y convertirla en un sistema operativo útil.
+
+22. README — CÓMO TRABAJAR CON MAURICIO
+Cómo presentarle un problema
+Primero:
+problema real + evidencia + impacto.
+Después contexto.
+No comenzar con una exposición teórica enorme.
+Qué información darle
+Idealmente:
+- datos reales;
+- alternativas;
+- restricciones;
+- incertidumbres;
+- consecuencias.
+Le ayuda especialmente saber:
+qué sabemos / qué creemos / qué no sabemos.
+
+Cuánto detalle
+Puede absorber muchísimo detalle.
+Pero debería darse en capas.
+Primero estructura.
+Después profundidad.
+Qué tareas entregarle
+Especialmente:
+- problemas ambiguos;
+- oportunidades nuevas;
+- diseño inicial;
+- diagnóstico;
+- integración entre áreas;
+- búsqueda de soluciones;
+- experimentación;
+- negociación compleja;
+- decisiones comerciales no rutinarias.
+Qué tareas evitar entregarle
+Si existe otra persona competente:
+- mantenimiento repetitivo;
+- administración rutinaria;
+- seguimiento mecánico;
+- tareas operativas de bajo aprendizaje;
+- documentación administrativa recurrente.
+Cuándo desafiarlo
+Cuando aparece:
+“ya que estamos podríamos…”
+
+Ese patrón frecuentemente anuncia expansión del alcance.
+Cuándo dejarlo explorar
+Cuando:
+- la incertidumbre es alta;
+- la decisión es reversible;
+- existe potencial significativo;
+- todavía no entendemos el espacio.
+Ahí explorar probablemente produce valor.
+Cómo convencerlo
+La mejor herramienta parece ser:
+evidencia operacional.
+Una prueba pequeña puede cambiar su opinión más rápido que una discusión larga.
+Cómo detectar desviación
+Tres señales:
+1. aparecen varias arquitecturas nuevas;
+2. el objetivo comercial original empieza a desaparecer;
+3. resolver el problema exige construir infraestructura no prevista.
+Cómo ayudarlo a terminar
+Definir antes de comenzar:
+qué significa DONE.
+No después.
+Y distinguir:
+“interesante” de “necesario para cerrar”.
+Cómo evitar desperdiciar sus capacidades
+No convertirlo en administrador de cada engranaje del sistema que él mismo diseñó.
+23. Predicciones verificables
+Estas son deliberadamente falsables.
+1
+SI descubres una discrepancia entre dos sistemas
+PROBABLEMENTE investigarás primero la causa antes de corregirla manualmente.
+PORQUE recurres repetidamente a provenance y auditoría.
+Confianza: 90%.
+2
+SI una idea nueva parece reversible y barata de probar
+PROBABLEMENTE aceptarás experimentar rápidamente.
+Confianza: 90%.
+3
+SI una automatización requiere una escritura remota peligrosa
+PROBABLEMENTE pedirás primero canario, verify o mecanismo equivalente.
+Confianza: 95%.
+4
+SI una investigación descubre dos oportunidades adicionales
+PROBABLEMENTE sentirás impulso de abrir al menos una.
+Confianza: 85%.
+5
+SI un sistema ya funciona pero todavía tiene imperfecciones arquitectónicas
+PROBABLEMENTE sentirás tentación de mejorarlo antes de explotarlo completamente.
+Confianza: 80%.
+6
+SI una oportunidad tiene margen alto pero demanda dudosa
+PROBABLEMENTE no comprarás sólo por margen.
+Confianza: 90%.
+7
+SI alguien sostiene una opinión comercial que contradice resultados reales
+PROBABLEMENTE preferirás los resultados.
+Confianza: 90%.
+8
+SI una herramienta nueva de IA permite conectar sistemas antes aislados
+PROBABLEMENTE explorarás su uso rápidamente.
+Confianza: 95%.
+9
+SI tienes cinco proyectos prometedores y ninguno tiene deadline externo
+PROBABLEMENTE al menos uno quedará temporalmente suspendido.
+Confianza: 85%.
+10
+SI aparece un problema recurrente tres o cuatro veces
+PROBABLEMENTE intentarás convertirlo en proceso, regla o automatización.
+Confianza: 95%.
+11
+SI una prueba real contradice tu hipótesis inicial
+PROBABLEMENTE cambiarás la arquitectura antes que defender la hipótesis.
+Confianza: 85%.
+12
+SI la solución manual funciona pero consume repetidamente tu atención
+PROBABLEMENTE intentarás automatizarla.
+Confianza: 95%.
+13
+SI una oportunidad es conceptualmente fascinante pero los números muestran mala economía
+PROBABLEMENTE terminarás descartándola.
+Confianza: 80%.
+14
+SI una persona puede explicarte por qué una solución más simple logra el mismo resultado con evidencia
+PROBABLEMENTE aceptarás simplificar.
+Confianza: 75%.
+15
+SI no existe una regla explícita de cierre
+PROBABLEMENTE tenderás a seguir refinando.
+Confianza: 90%.
+24. Áreas desconocidas
+Aquí no quiero rellenar.
+Mucha evidencia
+Tengo bastante evidencia sobre:
+- comercio;
+- tecnología;
+- IA;
+- MRPS;
+- precios;
+- inventario;
+- ecommerce;
+- proveedores;
+- experimentación;
+- aprendizaje aplicado;
+- sistemas;
+- reacción a errores.
+Evidencia parcial
+Tengo evidencia limitada sobre:
+- gestión de equipos humanos;
+- contratación;
+- liderazgo prolongado;
+- conflictos laborales;
+- ventas empresariales grandes;
+- negociación compleja de contratos;
+- gestión financiera corporativa;
+- planificación estratégica a 3–5 años.
+Prácticamente desconocido
+No puedo evaluar seriamente:
+- desempeño dirigiendo 20–50 personas;
+- política organizacional;
+- manejo de ejecutivos;
+- levantamiento de capital;
+- adquisiciones empresariales;
+- crisis empresariales severas;
+- administración de grandes presupuestos;
+- escalamiento internacional.
+Y precisamente varias de esas áreas podrían ser donde Cristóbal tenga mucha más evidencia.
+25. Nivel de confianza general
+Diría aproximadamente:
+75–85 % de confianza
+en los patrones principales que describí.
+Pero no significa que haya observado 80% de tu vida.
+Estimo haber visto quizás:
+30–40 % de tu actividad empresarial real
+con una característica particular:
+he observado una proporción probablemente mucho mayor de tu actividad cognitiva asistida por IA.
+Eso produce un sesgo.
+Conozco especialmente bien al:
+Mauricio que investiga, diseña, construye y resuelve problemas utilizando IA.
+Conozco bastante menos al:
+Mauricio presencial, jefe, vendedor cara a cara, negociador humano, familiar, socio o administrador durante largos períodos.
+Esa distinción importa.
+La conclusión provisional más importante
+Hay una idea que atraviesa casi toda la evidencia.
+Tu capacidad más escasa no parece ser conocimiento.
+Tampoco creatividad.
+Ni siquiera ejecución técnica.
+Tu recurso escaso probablemente es:
+capacidad de atención de Mauricio.
+Y paradójicamente, cuanto más capaz se vuelve tu infraestructura de IA, más oportunidades eres capaz de descubrir, lo que puede aumentar en vez de disminuir ese problema.
+Por eso la arquitectura correcta quizá no consista solamente en:
+Mauricio + mejor IA.
+
+Podría requerir:
+Mauricio + alguien que comprima, priorice, institucionalice y capture valor + IA.
+
+Todavía NO HAY EVIDENCIA SUFICIENTE para decir que esa persona sea Cristóbal.
+Eso es exactamente lo que la segunda mitad del experimento debería descubrir.
+Una capacidad latente que merece especial atención
+Hay una que no estaba explícitamente en tu protocolo y que aparece bastante fuerte:
+COMPRESIÓN ORGANIZACIONAL
+Has aprendido a tomar cosas que originalmente requieren:
+varias personas + varios sistemas + múltiples fuentes + memoria humana
+y reducirlas progresivamente a:
+datos → reglas → IA → excepción humana.
+Eso puede producir aumentos enormes de productividad.
+Pero tiene un requisito:
+alguien debe decidir qué merece ser comprimido y qué debe permanecer humano.
+Curiosamente, hasta ahora esa persona también eres tú.
+Eso convierte simultáneamente esta capacidad en tu posible ventaja y en tu principal cuello de botella.
+
+============================================================
+REPORT 2 OF 4
+MAURICIO — CLAUDE
+SOURCE FILE: Mclau.txt
+============================================================
+
+Cartografía cognitiva de Mauricio — Claude
+Oct 6, 2026 · @Mauricio
+Nota de método
+Este informe usa solo lo que Claude pudo leer en esta sesión: archivos de C:\MRPS en
+modo lectura, dos artefactos publicados, una tarea programada y una skill. No tengo
+acceso a tus conversaciones anteriores con Claude ni a una memoria guardada, así que
+todo lo que diga sobre ellas es NO HAY EVIDENCIA SUFICIENTE.
+Cada afirmación lleva una etiqueta:
+Una advertencia que afecta a todo el informe: gran parte del texto de los repos lo
+escribieron agentes (Claude Code, Codex) por encargo tuyo. Separo lo que redactaste tú
+(misiones, prompts, correcciones) de lo que redactó un agente. Lo segundo muestra qué
+exigiste y aceptaste, no cómo piensas palabra por palabra.
+1. Evidencia disponible
+La evidencia es casi toda técnica y cubre 43 días, del 25 de agosto al 6 de octubre de 2026.
+Muestra con mucho detalle cómo diriges agentes de IA; muestra poco de cómo decides
+como comerciante.
+Etiqueta
+Qué significa aquí
+HECHO
+Se ve directamente en un archivo, commit, fecha o
+artefacto (cito la ruta).
+PATRÓN
+El mismo comportamiento aparece en 3 o más
+fuentes independientes.
+INTERPRETACIÓN
+Mi lectura de un patrón; otra lectura es posible.
+HIPÓTESIS
+Plausible, todavía no comprobada; incluye cómo
+comprobarla.
+AUTOIMAGEN
+Lo que Mauricio escribe sobre sí mismo o sobre sus
+intenciones.
+Confianza
+Alta, media o baja, según la cantidad y la
+independencia de las fuentes.
+Cartografía cognitiva de Mauricio — Claude
+Page 1 of 29
+
+Fuente
+Qué contiene
+Quién lo redactó
+Peso
+Repo mrps-
+automatizaciones
+376 commits, 60
+ramas, 33 misiones
+escritas, 111 reportes
+de evidencia, unos
+2.400 tests, Master
+Register de 82 KB
+Agentes (Claude
+Code, Codex) bajo
+tus misiones
+Alto
+Repo mission-router
+App de orquestación
+de agentes (16
+commits, 2–3 sep) y tu
+brief literal owner-
+brief.txt
+Tú (brief) y Codex
+Alto: el texto
+largo tuyo más
+fiel
+MRPS_AI_OS
+Estado, reglas y
+misiones de Cowork
+en GTM, Merchant y
+CRO (1–3 sep)
+Cowork, con tus
+decisiones
+registradas
+Medio
+mrps-jumpseller-theme
+Case Record 001:
+release del PDP,
+incidente en
+producción, reparto
+humano/agente
+Claude
+Alto para
+ejecución
+control-center-live ,
+worktrees, _safety ,
+handoff
+Copias y ramas de
+trabajo
+Agentes
+Bajo:
+redundante
+Artefactos publicados
+Morning Brief (12 sep)
+y Salud SEO Mercado
+Libre (5 sep)
+Claude
+Medio:
+contenido
+comercial
+Tarea programada (9 sep)
+Prompt para continuar
+MRPS-PDP-
+QUANTITY-TOTAL-01
+Tú
+Medio
+Skill propia
+Carruseles de
+Instagram para MRPS
+Tú
+Bajo
+Esta conversación
+El prompt de esta
+auditoría y un prompt
+de cierre de ML que
+pegaste aquí por error
+Tú
+Alto como
+muestra de
+redacción
+Cartografía cognitiva de Mauricio — Claude
+Page 2 of 29
+
+Sin acceso: tus conversaciones anteriores con Claude, una memoria guardada, CLAIUD (la
+biblioteca de contexto que cita AGENTS.md ), el historial de Codex, ChatGPT y GitHub.
+Excluí a propósito la carpeta secrets .
+Identidad: los commits figuran como sabaparra / "Sebastian Parra". El Case Record 001
+identifica a sabaparra con Mauricio, así que lo trato como tu identidad Git (confianza
+alta).
+2. Trayectoria observable
+En seis semanas pasaste de un inspector de archivos de solo lectura a automatizaciones
+que escriben en producción en tres canales. Todo quedó con un registro formal de cierres.
+Fecha
+Hito (HECHO)
+Lectura
+6 oct
+Cierre durable del stock sync de
+Mercado Libre: 16/16 coinciden, 14 PUTs
+autorizados
+Escritura multicanal en producción
+3–4 oct
+Stock de Jumpseller sincronizado
+desde la nube; 162 fichas normalizadas
+en LIVE con gates visuales
+Lotes grandes después de canarios
+1 oct
+Replenishment cerrado con reducción
+explícita de alcance
+Recorte por valor/complejidad
+26–28
+sep
+Demand Intelligence, Inventory
+Intelligence, costo efectivo, resultado
+mensual
+Giro hacia la economía del negocio
+24 sep
+Autoridad de escritura entre dos PC
+(notebook y PC fijo)
+Gobierno de quién escribe
+21–23
+sep
+Pico de 35 commits en un día: evidencia
+operacional, rentabilidad, informes
+HTML/PDF, Crónica, scrapers de
+proveedores, Ollama
+Expansión justo después de declarar
+una pausa
+18 sep
+Consolidation 01 cerrada; regla
+NEXT_PHASE = OPERATIONAL_USE
+Autolímite explícito
+16–17
+sep
+Primeras escrituras reales Mercado
+Libre → ORU (venta y gasto Flex); ciclo
+programado en la nube
+Primer paso a producción en el
+sistema central
+Cartografía cognitiva de Mauricio — Claude
+Page 3 of 29
+
+Ritmo (HECHO): 376 commits en 31 días activos. El 49 % cae entre las 20:00 y las 03:00
+hora de Santiago, y el 28 % en fin de semana.
+Antes del 25 de agosto: NO HAY EVIDENCIA SUFICIENTE. Solo hay referencias a CLAIUD
+y a un hilo de ChatGPT sobre Jumpseller.
+3. Sistema cognitivo
+Tu ciclo real es un embudo de riesgo: abres muy rápido en lectura, estrechas con canarios
+y escribes en producción solo después de fijar tú la verdad comercial (PATRÓN, confianza
+alta).
+Fecha
+Hito (HECHO)
+Lectura
+10–11
+sep
+Release del PDP de Jumpseller (TOTAL
+y Detalles técnicos), caída en
+producción y rollback
+Case Record 001
+2–3 sep
+Mission Router (Next.js, SQLite,
+aprendizaje de ETA) y MRPS_AI_OS;
+ninguno vuelve a tener actividad
+Meta-sistemas abandonados
+1–3 sep
+Cowork en GTM, Merchant y CRO, con
+misiones por fases
+Navegador, lectura y ediciones con
+rollback
+25 ago
+Control Center v0.1 con Codex; nivel
+LEVEL 1 — OBSERVE / READ ONLY
+Arranque
+Cartografía cognitiva de Mauricio — Claude
+Page 4 of 29
+
+Aceleraciones (HECHO): después de un canario exitoso, el salto a lote o a ejecución
+programada toma horas o días. El ciclo de stock pasó de modo SHADOW a APPLY con
+preautorización permanente en una hora (19 sep, 21:45 → 22:47). La escritura de stock
+en Mercado Libre fue de 1 ítem a 14 en tres días (4–6 oct).
+Bloqueos (PATRÓN): te detienes en autenticación, herramientas y terceros. La
+renovación OAuth de Mercado Libre quedó excluida de las misiones de lectura, así que
+el Morning del 12 sep salió sin datos de ML. Igual con Tag Assistant, el ticket de soporte
+de Jumpseller y la revisión de Google. La respuesta es documentar BLOQUEADO y
+cambiar de frente; no fuerzas.
+Expansión (PATRÓN): cada capacidad cerrada abre la de al lado. Rentabilidad → costo
+efectivo → historial de compras → historial de ediciones de catálogo → resultado
+mensual, todo entre el 21 y el 28 sep.
+Cambio de objetivo (HECHO): el 3 sep sacaste ORU del hilo web y pasaste GA4 a
+"deuda de medición conocida, no seguir investigando salvo bloqueo comercial
+concreto".
+Cierre (PATRÓN): cierras el componente con evidencia, estado y referencia en el
+Register. El cierre del sistema (ramas, worktrees, adopción en la rutina) queda atrás.
+Abandono (HECHO): Mission Router y MRPS_AI_OS no tienen actividad desde el 3
+sep. REMOTE-01 quedó "cerrado técnicamente" y nunca se integró. Los scrapers de
+proveedores no tienen actividad desde el 23 sep. Ninguno figura como abandonado:
+quedan diferidos o simplemente quietos.
+ciclo señal → cierre · 8 etapas y una salida por bloqueo
+Cartografía cognitiva de Mauricio — Claude
+Page 5 of 29
+
+INTERPRETACIÓN: el embudo no avanza en línea recta. Varios ciclos corren en paralelo,
+en sesiones distintas, y tú eres el punto donde se cruzan.
+4. Sistema de decisión
+Decides rápido sobre alcance y permisos, y cambias una decisión en minutos cuando
+aparece un dato del negocio o un costo operativo tuyo. Lo que dice un agente no te mueve
+por sí solo (PATRÓN, confianza media-alta).
+Qué decides tú (HECHO). El postmortem del catálogo deja escrita la frontera: recuperar,
+comparar, validar y guardar evidencia es automático; "verdad comercial/técnica,
+equivalencias, calidad y aprobación" quedan en una puerta humana. El Case Record 001
+coincide: alcance, aceptar limitaciones, autorizar cada escritura en producción y la
+aceptación visual final son tuyos.
+Con qué criterios (PATRÓN):
+Reversibilidad: lo local se aprueba en bloque; lo remoto, por objetivo, alcance y sistema.
+Evidencia: sin fuente, la afirmación queda PROBABLE o NO RESUELTO.
+Tu propio tiempo operativo: anulaste un control que te habría obligado a editar una
+variable de entorno antes de cada venta (17–18 sep).
+Valor frente a complejidad: recortaste Replenishment (1 oct) y difiriste Weekly
+Intelligence.
+Bloqueo comercial: GA4 queda como deuda "salvo bloqueo comercial concreto" (3
+sep).
+Cómo lo dejas escrito (HECHO): como "Decisión OWNER" con fecha y alcance. Ejemplos:
+Mercado Libre y MRPS.cl como clientes formales en ORU (11 sep); el envío de Jumpseller
+fuera de la venta ORU (15 sep); la regla de la Tabla de Equivalencias (2 sep).
+Lo que no se ve: decisiones de precio, compras, contratación, inversión y uso de caja. NO
+HAY EVIDENCIA SUFICIENTE para describir cómo decides ahí.
+5. Sistema de ejecución
+Eres muy fuerte en comenzar, construir con agentes y cerrar componentes con evidencia.
+Eres más débil en operar sin abrir frentes nuevos y en escalar con personas.
+Cartografía cognitiva de Mauricio — Claude
+Page 6 of 29
+
+Capacidad
+Evidencia y ejemplos
+Limitaciones
+Confianza
+1. Detectar
+GA4 identifica 15 de 21
+pedidos pagados;
+distinguiste unidad física,
+unidad de venta y caja;
+drift de producción en el
+theme; costos atípicos
+La detección se
+concentra en datos y
+sistemas; las señales
+comerciales se detectan,
+pero casi nunca se ve la
+acción
+Alta
+2. Idear
+Mission Router, Crónica,
+evidencia operacional,
+motor de oportunidades
+y scrapers de
+proveedores en menos
+de 4 semanas
+Ideas sobre todo de
+instrumentación y
+gobierno; pocas de
+producto, oferta o
+mercado
+Media
+3.
+Investigar
+Misiones por fases
+(baseline → hipótesis →
+cuantificación); exiges
+CONFIRMADO,
+PROBABLE o NO
+RESUELTO
+La investigación la hacen
+agentes; tu aporte visible
+es el marco y el estándar
+Alta para el marco,
+baja para la
+ejecución propia
+4. Decidir
+Decisiones OWNER
+fechadas; tres
+reversiones en menos de
+25 minutos (sección 10)
+Las decisiones
+comerciales casi no
+quedan en el repo
+Media-alta
+5.
+Comenzar
+Control Center el 25 ago;
+Mission Router con 16
+commits en un día
+Comenzar te cuesta casi
+nada, y eso deja restos
+Alta
+6.
+Construir
+376 commits, unos 2.400
+tests, 111 reportes de
+evidencia
+Construcción delegada;
+tu cuello es revisar
+Alta
+7. Terminar
+Más de 10 estados de
+cierre distintos; la
+"limitación aceptada"
+como entregable
+13 ramas sin integrar, 40
+worktrees registrados,
+varios de misiones ya
+integradas, 167 carpetas
+temporales de tests en la
+raíz del repo
+Media-alta
+Cartografía cognitiva de Mauricio — Claude
+Page 7 of 29
+
+6. Inteligencia comercial
+Tu conocimiento comercial aparece como verdad operacional que corrige al sistema, no
+como análisis formal. El sistema produce mucho diagnóstico comercial, y en el repo se ve
+poca acción comercial derivada de él (PATRÓN, confianza media).
+Contexto (HECHO, informe del 21 sep): ventas ORU de $6.628.130 contra $6.228.288 en
+días equivalentes, con contribución directa de $2.366.600. La web vendió $457.084 en 28
+días, del orden del 7 % de ORU con ventanas no idénticas. Las pilas de reloj dominan; el
+inventario a costo era de $17.197.694, con $6.704.818 marcados sin rotación (12 sep).
+Capacidad
+Evidencia y ejemplos
+Limitaciones
+Confianza
+8. Operar
+Stock sync programado
+en la nube, feed diario de
+Merchant, ventas ML →
+ORU desde Control
+Center; 13 corridas
+registradas entre el 12 y
+el 21 sep
+La fase "uso operacional"
+duró cerca de un día
+antes de abrir iniciativas
+nuevas
+Media
+9.
+Optimizar
+Rendimiento (clientes
+reutilizados,
+paralelismo), política de
+costos, 162 fichas
+normalizadas
+Optimización comercial
+(precio, conversión)
+diagnosticada pero no
+ejecutada en lo visible
+Media
+10. Escalar
+Nube, OIDC, autoridad
+entre dos PC, ejecución
+por lotes
+Escala con personas: NO
+HAY EVIDENCIA. Failover
+entre nodos no existe
+Baja-media
+Tema
+Lo que aportaste tú
+(intuición operacional)
+Lo que calcula el
+sistema (formal)
+Acción observada
+Unidades
+"Una venta es un par
+de pilas; la caja trae
+seis pares"
+Factor de cantidad
+dentro de la identidad
+del producto
+Descripción corregida
+sin tocar variantes ni
+stock
+Costo
+El SR920SW/371 costó
+de verdad 1.030,
+contra una heurística
+que lo habría
+"corregido"
+Costo efectivo con 5
+fuentes ordenadas;
+3.424 líneas
+Política cambiada en 16
+minutos
+Cartografía cognitiva de Mauricio — Claude
+Page 8 of 29
+
+INTERPRETACIÓN: tu fuerte comercial es saber qué es cada unidad, cuánto costó y cómo
+se registra cada canal. Eso es conocimiento de operación, más que de pricing o de
+asignación de capital.
+HIPÓTESIS: las decisiones de precio y compra existen, pero las tomas fuera del sistema
+(en el local o directo en ORU). Se comprueba revisando cambios de precio en ORU y
+Jumpseller de las últimas seis semanas.
+7. Relación con riesgo
+Tu regla real es una asimetría: toleras mucho riesgo en lo reversible y casi ninguno en lo
+irreversible o en las credenciales (PATRÓN, confianza alta).
+Tema
+Lo que aportaste tú
+(intuición operacional)
+Lo que calcula el
+sistema (formal)
+Acción observada
+Precio
+Oferta por formato en
+la ficha (TOTAL, Antes,
+Ahorras); precio
+mayorista
+Pila AA Duracell:
+contribución de
+$88.508 sobre
+$1.458.259; mayorista
+bajo costo (3 sep)
+NO HAY EVIDENCIA de
+cambio de precio
+Canales
+ML y MRPS.cl como
+clientes formales en
+ORU; envío fuera de la
+venta
+Sales Radar, Seller
+Center Total
+Reglas OWNER
+registradas
+Proveedores
+Temponovo,
+Cambridge Time
+Spares, conversión
+USD → CLP, cantidad
+por pack
+Consulta de precios
+con login humano
+(22–23 sep)
+Sin actividad posterior
+Competencia
+Catálogo compartido
+de ML: F-91 a $27.490
+contra $21.980 del
+líder
+Demand Intelligence,
+Best Sellers de
+Merchant
+NO HAY EVIDENCIA de
+respuesta
+Inventario y
+capital
+Sin dato tuyo visible
+Inventory
+Intelligence, días de
+cobertura
+Replenishment
+recortado; ninguna
+decisión de liquidación
+visible
+Crecimiento
+Prioridad a tráfico
+orgánico y contenido
+técnico
+Clics de Search
+Console +97 % en 28
+días
+162 fichas normalizadas
+en LIVE
+Cartografía cognitiva de Mauricio — Claude
+Page 9 of 29
+
+Contradicciones (HECHO + INTERPRETACIÓN):
+Expones Control Center en una URL pública de ngrok Free, con escrituras protegidas
+por OIDC y lista de operadores. Al mismo tiempo excluías de las misiones de lectura
+una simple renovación OAuth de ML. El riesgo que evitas es el de credenciales mal
+guardadas, no el de exposición de red cuando hay controles.
+AGENTS.md sigue exigiendo aprobación humana por cambio en producción. El ciclo
+programado corre con STANDING_PREAUTHORIZATION , que no aparece en AGENTS.md .
+La aprobación pasó de ser por cambio a ser por capacidad, y la regla escrita no se
+actualizó.
+Tipo
+Comportamiento observado
+Confianza
+Financiero
+No se ve exposición financiera
+nueva. Los $6,7 millones sin rotación
+se miden, pero no hay decisión
+visible
+Baja: NO HAY EVIDENCIA
+SUFICIENTE
+Operacional
+Aceptas escrituras automáticas en
+producción después de un canario:
+ciclo de stock con preautorización
+permanente (19 sep), 14 PUTs en ML
+(6 oct)
+Alta
+Reputacional
+Proteges lo público: la Tabla de
+Equivalencias, gates visuales para
+162 fichas, alertas por políticas de
+ML
+Alta
+Tecnológico
+Mucha tolerancia a herramientas
+nuevas (agentes, GitHub Actions,
+OIDC, ngrok Free, Ollama). Muy
+poca a guardar credenciales:
+renovación OAuth excluida, logins
+solo humanos
+Alta
+Reversible frente a
+irreversible
+Rápido en lo local, lento en
+producción y siempre con rollback
+capturado antes
+Alta
+Incertidumbre
+La etiquetas (UNKNOWN,
+PARTIAL) en vez de resolverla; a
+veces queda abierta días, como ML
+sin lectura en el Morning al menos
+del 9 al 12 sep
+Media
+Cartografía cognitiva de Mauricio — Claude
+Page 10 of 29
+
+Exiges rigor máximo en cada escritura, pero el repo convive con 13 ramas sin integrar.
+Ese es un riesgo de divergencia que no se trata con el mismo cuidado.
+8. Relación con información
+Tratas la información como evidencia con procedencia, frescura y autoridad. Prefieres un
+"no sé" exacto a un número cómodo (PATRÓN, confianza alta).
+El mismo estándar aparece en cuatro dominios distintos (HECHO):
+Código: AGENTS.md fija una jerarquía de verdad (código y ejecución real →
+documentación → handoffs → histórico → "nunca suposiciones").
+Informes: el Morning advierte que "FRESH significa lectura nueva, no datos de hoy",
+que GA4 "nunca sustituye contabilidad" y que no se suman categorías que se solapan.
+Tu propia biografía: la Crónica se detiene ante "psicología inventada", y su estado
+guarda mauricio_learnings: [] , vacío a propósito.
+Esta auditoría: pides separar HECHO, PATRÓN, INTERPRETACIÓN e HIPÓTESIS.
+También cuidas el costo de mover información. Tu brief de Mission Router dice "MOVE
+INFORMATION, NOT CONTEXT" y pide no incluir toda la historia en cada handoff.
+Costo (INTERPRETACIÓN): los informes salen confiables pero densos en advertencias. En
+el Morning del 12 sep, las tres prioridades dicen "Impacto no monetizado; no se estima
+ingreso perdido". La información es honesta y poco traducible a pesos.
+9. Relación con IA
+No usas la IA como herramienta suelta. Construiste una arquitectura: los agentes son la
+fuerza de trabajo, el repo es la memoria compartida y tú gobiernas los efectos
+secundarios (PATRÓN, confianza alta).
+Cartografía cognitiva de Mauricio — Claude
+Page 11 of 29
+
+Cambias de ejecutor por bloques de semanas, no por tarea (INTERPRETACIÓN). La causa
+no está escrita en ningún lado: NO HAY EVIDENCIA SUFICIENTE para saber si fue costo,
+cuota o calidad.
+Funciones que externalizaste: escribir código y tests, investigar, documentar, redactar
+reportes de evidencia, llevar el Register y hasta escribir tu crónica.
+git log de mrps-automatizaciones, trailer Co-Authored-By · 25 ago – 6 oct 2026
+Herramienta
+Uso observado (HECHO)
+Codex
+Implementador al inicio (25 ago – 6 sep) y otra vez
+desde fines de septiembre; 22 de las 24 misiones
+con ejecutor declarado lo nombran a él
+Claude Code
+167 commits firmados, casi todos con Sonnet 5;
+auditor adversarial del
+"READY_FOR_PRODUCTION: YES" de Codex en el
+Case Record 001
+Claude Cowork y Claude in Chrome
+GTM, Merchant, CRO y la auditoría SEO de
+Mercado Libre (1–5 sep)
+ChatGPT
+Hilo "Jumpseller — Corrección autónoma MRPS"
+en un proyecto; tu brief lo marca UNVERIFIED
+hasta comprobarlo
+Ollama local
+Narrador opcional de la Crónica (23 sep)
+Copilot
+La carpeta existe en tu equipo; NO HAY
+EVIDENCIA de uso
+Cartografía cognitiva de Mauricio — Claude
+Page 12 of 29
+
+Decisiones que conservas: verdad comercial, alcance, autorización de escrituras
+nuevas, aceptación visual y aceptar limitaciones.
+Lo que no delegas (HECHO): logins y credenciales (login humano en proveedores; el
+agente no configuró tu identidad Git) y el primer permiso de cada escritura en
+producción.
+Dónde sigues siendo cuello de botella: eres el enrutador entre sesiones. Hoy pegaste
+aquí un prompt de cierre de ML pensado para otra sesión, y a los cuatro minutos
+apareció en el repo el commit "docs: close durable ML stock sync". También pasan por
+ti la QA visual, las aprobaciones y el traspaso de contexto.
+¿Herramienta o arquitectura? Arquitectura. Lo muestran los campos que asignas a
+cada misión (EXECUTOR, REASONING, TOKEN_MODE), el Master Register como
+memoria, la autoridad de escritura entre PCs y Mission Router como intento de plano
+de control. Tu propio principio lo resume: "MANY CAN THINK IN PARALLEL. ONE
+OWNER PER SIDE EFFECT."
+10. Sistema de aprendizaje
+Aprendes por incidente: algo falla o se contradice, se escribe un postmortem y la lección
+sube a regla del sistema (PATRÓN, confianza alta). Lo que aprendes queda en el repo, no
+solo en tu cabeza.
+Mecanismo
+Evidencia
+Confianza
+Error → regla
+Case Record 001 cierra con 14 "reglas
+para promover a MRPS CORE"; el
+postmortem del catálogo clasifica
+gates en mantener, simplificar y
+eliminar
+Alta
+Prueba y canario
+Todo write nuevo pasa por 1 ítem
+antes del lote
+Alta
+Construcción
+Cada pregunta del negocio se
+convierte en una capacidad del
+sistema
+Alta
+Comparación
+Claude auditó el trabajo de Codex;
+ahora comparas esta auditoría con
+otra
+Media-alta
+Simulación
+Modo SHADOW antes de APPLY en
+el ciclo de stock
+Media
+Cartografía cognitiva de Mauricio — Claude
+Page 13 of 29
+
+Cambios de opinión (HECHO, con fecha):
+Mecanismo
+Evidencia
+Confianza
+Conversación con IA
+Inferida por el volumen de misiones;
+sin transcripciones a la vista
+Media
+Lectura e investigación
+propia
+Sin rastro
+NO HAY EVIDENCIA
+SUFICIENTE
+Caso
+De → a
+Qué lo produjo
+Tiempo
+Tabla de
+Equivalencias (2
+sep)
+Intocable → motor
+protegido,
+presentación y
+metadata editables
+con control
+Precisión: "proteger el
+motor no es congelar el
+diseño"
+Mismo día, dos
+correcciones
+Control de escritura
+en Control Center
+(17–18 sep)
+Una variable de
+entorno por pedido →
+permiso global de
+capacidad
+Tu costo operativo:
+varias ventas
+acumuladas un lunes
+22 minutos
+Costo histórico (21
+sep)
+Corregir todo lo que
+supere 1,5 × el
+catálogo → corregir
+solo errores de
+digitación
+Tu dato real (SR920SW =
+1.030) y el principio "raro
+no es falso"
+16 minutos
+Equipos (3 → 24 sep)
+Solo el notebook
+actual → autoridad de
+escritura compartida
+con un PC fijo
+Necesidad operativa
+3 semanas
+Orquestación (3 → 12
+sep)
+App Mission Router
+→ una plantilla de
+texto que "no es un
+framework"
+Costo y complejidad
+(INTERPRETACIÓN; la
+razón no está escrita)
+9 días
+Replenishment (1
+oct)
+Alcance completo →
+reducido
+Valor frente a
+complejidad, explícito
+Una misión
+GA4 (3 sep)
+Investigar → deuda
+conocida
+Prioridad comercial
+Una decisión
+Cartografía cognitiva de Mauricio — Claude
+Page 14 of 29
+
+Lo que no te mueve: la autoridad del agente. Las tres reversiones rápidas nacen de un
+dato tuyo, de tu tiempo o de un principio, nunca de que un agente insistiera.
+Ideas mantenidas quizás demasiado tiempo (HIPÓTESIS; pueden ser prioridades
+deliberadas):
+Excluir la renovación OAuth de ML dejó al Morning sin ML al menos del 9 al 12 sep; la
+renovación quedó aislada en un workflow propio recién el 4 oct.
+REMOTE-01 sigue "cerrado técnicamente, producción diferida" desde el 2 sep, sin
+integrarse.
+Weekly Intelligence está implementado y con el LIVE diferido desde el 28 ago.
+11. Fortalezas
+Tu mayor fortaleza observada es diseñar cómo se verifica algo antes de hacerlo. Las
+demás se apoyan en ella.
+1. Diseño de verificación. Estados de evidencia, jerarquía de verdad, cierre con más de 10
+estados, "aplicar no es verificar". Aparece en código, informes, tu crónica y este
+prompt. Confianza alta.
+2. Especificación ejecutable. Tus briefs traen alcance, lista de NO, condiciones de
+parada, una validación de 12 puntos y el formato exacto de salida. El brief de Mission
+Router y el prompt de ML de hoy siguen el mismo molde. Confianza alta.
+3. Gobierno de efectos secundarios. Separas pensar de escribir: muchos agentes
+pueden analizar, uno solo es dueño de cada escritura, con rollback capturado antes.
+Confianza alta.
+4. Arranque y volumen con agentes. 376 commits y unos 2.400 tests en 43 días, con dos
+o tres ejecutores. Confianza alta.
+5. Convertir incidentes en reglas. Cada falla seria termina en una regla escrita y
+reutilizable (Case Record 001, postmortem del catálogo). Confianza alta.
+6. Verdad operacional del negocio. Sabes qué es una unidad, qué costó de verdad y cómo
+se registra cada canal; con eso corriges al sistema. Confianza media-alta.
+7. Capacidad de recortar. Cortaste Replenishment, difiriste Weekly Intelligence y
+congelaste la investigación de GA4 cuando el valor no lo justificaba. Confianza media.
+Caso
+De → a
+Qué lo produjo
+Tiempo
+Escrituras (25 ago →
+19 sep)
+Solo lectura → ciclo
+programado con
+preautorización
+Canarios exitosos
+25 días
+Cartografía cognitiva de Mauricio — Claude
+Page 15 of 29
+
+12. Costos ocultos de las fortalezas
+Cada fortaleza tiene un costo que ya se ve en el repo; ninguno es teórico.
+INTERPRETACIÓN: el costo común es que el sistema optimiza por no equivocarse antes
+que por ganar más. Para un comercio de este tamaño, ese orden no siempre es el correcto.
+13. Debilidades
+Las debilidades observadas no están en el rigor ni en la velocidad. Están en lo que pasa
+después de cerrar un componente.
+1. Cierre del sistema. Cierras componentes con evidencia impecable, pero el conjunto
+acumula ramas, worktrees y capacidades en estado intermedio ("VERIFICADO LOCAL
+· ADOPCIÓN PENDIENTE", "LOCAL_IMPLEMENTATION_COMPLETE"). Confianza alta.
+Fortaleza
+Costo observado
+Evidencia
+Rigor de evidencia
+Informes poco traducidos a
+pesos; mucho esfuerzo en un
+canal web del orden del 7 % de
+las ventas
+Morning del 12 sep: tres
+prioridades "impacto no
+monetizado"
+Arranque rápido
+Restos que nadie cierra
+13 ramas sin integrar, 40
+worktrees registrados, 167
+carpetas .pytest-* en la raíz,
+Mission Router quieto
+Fail-closed
+Puntos ciegos largos y fricción
+ML fuera del Morning al menos
+del 9 al 12 sep; un control por
+pedido que tuviste que revertir
+Delegación masiva a
+agentes
+Tú quedas como único
+verificador y aprobador, de
+noche
+49 % de los commits entre 20:00
+y 03:00; QA visual y permisos
+siempre tuyos
+Codificar reglas
+Costo de contexto para cada
+agente
+AGENTS.md , cinco convenciones
+de misión y un Register de 82 KB
+que cada ejecutor debe leer
+Capacidad de
+recortar
+Lo recortado queda con un
+estado formal y no se vuelve a
+evaluar (HIPÓTESIS)
+"PRESERVADO · DORMANTE ·
+NO ADOPTADO", "LIVE diferido"
+sin fecha de revisión
+Cartografía cognitiva de Mauricio — Claude
+Page 16 of 29
+
+2. De inteligencia a acción comercial. El sistema detectó margen bajo en Duracell AA,
+mayorista bajo costo, precio 25 % sobre el líder en el F-91 y caída de conversión de 27
+%. En el repo no hay una sola acción de precio o surtido que responda a eso. Confianza
+media: la acción podría ocurrir fuera del repo.
+3. Medir tu propio valor. Construiste la calibración de tiempo humano, pero no existe
+ninguna muestra manual; el informe del 21 sep dice "Human time: NOT_CAPTURED". No
+sabes cuánto te ahorra lo construido. Confianza alta.
+4. Respetar tus propios autolímites. La pausa OPERATIONAL_USE del 18 sep fue seguida
+por cerca de 80 commits de capacidades nuevas en cinco días. Confianza alta.
+5. Una sola persona. No aparece ningún otro humano operando el sistema, aunque ya
+existen lista de operadores, acceso remoto y autoridad entre PCs. Confianza media:
+NO HAY EVIDENCIA de delegación a personas, que no es lo mismo que evidencia de
+que no la hay.
+14. Sesgos posibles
+Todo lo de esta sección es HIPÓTESIS. Cada sesgo trae la evidencia a favor, la evidencia en
+contra y cómo comprobarlo.
+Sesgo
+A favor
+En contra
+Cómo comprobarlo
+Construir
+antes que
+actuar
+Business Performance
+pasó de Markdown a
+HTML, PDF y visor en
+unos 80 minutos (21
+sep)
+Recortaste
+Replenishment y GA4
+En la próxima señal
+comercial, ver si la
+primera respuesta
+es una misión o una
+acción manual
+Medir antes
+que decidir
+Instrumentación de
+tiempo humano,
+evidencia operacional,
+cobertura temporal
+Decisiones OWNER
+rápidas cuando hay un
+dato concreto
+Contar decisiones
+comerciales
+tomadas por mes
+contra capacidades
+de medición nuevas
+Aversión a
+afirmar sin
+prueba
+Morning sin cifras de
+dinero en sus
+prioridades
+Aceptas estimaciones
+etiquetadas
+( COST_IS_ESTIMATE )
+Pedir una decisión
+de precio con datos
+incompletos y ver si
+la tomas o pides
+más evidencia
+Cartografía cognitiva de Mauricio — Claude
+Page 17 of 29
+
+15. Contradicciones
+Hay tres contradicciones que te cuestan y dos que te dan ventaja.
+Sesgo
+A favor
+En contra
+Cómo comprobarlo
+Canal visible
+Mucho trabajo en web
+y ML (APIs
+disponibles); el local
+físico vende más y
+aparece menos
+ORU sí está integrado
+(costos, compras, ventas)
+Comparar horas
+invertidas por canal
+con su peso en
+ventas
+Apego al
+sistema
+propio
+Una crónica de cómo
+se construyó el
+sistema; un Register
+de 82 KB
+Abandonaste Mission
+Router sin dudar
+Ver si alguna
+capacidad se
+elimina, no solo se
+difiere, en los
+próximos 6 meses
+Novedad
+tecnológica
+Ollama, ngrok, OIDC y
+una app Next.js en
+pocas semanas
+Python, Streamlit y
+GitHub Actions estables
+desde el inicio
+Contar
+herramientas
+nuevas adoptadas
+que siguen en uso a
+los 3 meses
+Contradicción
+Lado A (HECHO)
+Lado B (HECHO)
+Lectura
+Simplicidad
+declarada frente a
+sistemas complejos
+AGENTS.md y el handoff
+de Codex: "evitar
+sobrearquitectura"; tu
+brief: "NO crear otro
+subsistema interno"
+Mission Router con
+SQLite y aprendizaje
+de ETA en un día;
+Crónica con
+narrador Ollama;
+CAS entre dos PC
+Costosa, en parte
+resuelta: la
+plantilla de
+misión reemplazó
+a Mission Router
+Pausa declarada
+frente a expansión
+18 sep: "usar Control
+Center varios días antes
+de abrir otra iniciativa"
+19–23 sep: unos 80
+commits con
+capacidades nuevas
+Costosa
+Cierre estricto
+frente a residuos
+Taxonomía de cierre con
+más de 10 estados
+13 ramas sin integrar,
+40 worktrees, 167
+carpetas temporales
+Costosa
+Velocidad y cautela
+376 commits en 43 días
+Canario de 1 ítem y
+rollback antes de
+cada escritura nueva
+Productiva:
+rápido en lo
+reversible, lento
+en lo irreversible
+Cartografía cognitiva de Mauricio — Claude
+Page 18 of 29
+
+Una más, de gobierno: la regla escrita pide aprobación humana por cambio, y el ciclo
+programado ya corre con preautorización permanente. No es incoherente pensarlo así,
+pero la regla y la práctica ya no coinciden.
+16. Capacidades diferenciales
+Lo poco común no es ninguna habilidad aislada. Es la combinación: dueño de un comercio
+minorista pequeño con una disciplina de gobierno de agentes propia de ingeniería de
+confiabilidad.
+Lo que haces bien en dominios distintos sin haberlo formalizado como habilidad
+(PATRÓN):
+Ingeniería epistémica. El mismo esquema (hecho, inferencia, desconocido, autoridad
+de la fuente) aparece en GA4, en costos, en tu crónica y en esta auditoría. Es una
+habilidad transferible, no un hábito del código. Confianza alta.
+Triangulación adversarial. Haces que un sistema verifique a otro: Claude contra el
+"listo para producción" de Codex, una referencia de ChatGPT marcada sin verificar,
+ahora dos auditorías de ti mismo. Confianza media-alta.
+Contratos operativos. Escribes límites de autoridad con la precisión de un contrato:
+qué se permite, qué se prohíbe, cuándo parar y qué se entrega. Confianza alta.
+Modelado de identidad y unidades. SKU → ID → URL → nombre como último recurso;
+factores de pack; nunca coincidencias aproximadas. Viene de la operación de un
+comercio con miles de referencias pequeñas. Confianza media-alta.
+La habilidad subyacente que explica varios resultados distintos (INTERPRETACIÓN):
+conviertes desconfianza en procedimiento. Donde otros dudan o confían, tú defines la
+prueba que zanja la duda.
+Sobre si programas tú mismo: NO HAY EVIDENCIA. 167 commits llevan firma de Claude; el
+resto no lleva firma, y desde el repo no se distingue si los escribió Codex o tú.
+17. Capacidades dormidas
+Las capacidades técnicas están bien usadas; las comerciales y de alcance externo están
+subutilizadas o dormidas.
+Contradicción
+Lado A (HECHO)
+Lado B (HECHO)
+Lectura
+Desconfías de la IA
+y dependes de ella
+Toda afirmación de un
+agente o de ChatGPT
+entra como
+UNVERIFIED
+Casi todo el código y
+la documentación los
+escribe IA
+Productiva: usas
+un modelo para
+auditar a otro
+Cartografía cognitiva de Mauricio — Claude
+Page 19 of 29
+
+18. Potenciales ocultos
+El mayor potencial oculto es usar sobre el negocio la calidad de datos que ya construiste.
+Todo lo que sigue es HIPÓTESIS, con su prueba.
+Clase
+Capacidad
+Evidencia
+Bien utilizada
+Especificar misiones
+Brief de Mission Router, plantilla
+de misión, prompt de ML de hoy
+Bien utilizada
+Diseñar verificación
+Canarios, hashes, VERIFY en
+vivo, cierre durable
+Bien utilizada
+Verdad operacional
+Unidades, costos reales, reglas
+de canal
+Subutilizada
+Análisis comercial (precio,
+margen, capital)
+Margen por línea y capital sin
+rotación medidos; ninguna
+acción visible
+Subutilizada
+Cierre del sistema
+Ramas y worktrees acumulados
+Subutilizada
+Medir valor
+Calibración de tiempo humano
+sin muestras
+Dormida
+Sourcing con proveedores
+internacionales
+Temponovo y Cambridge Time
+Spares, sin actividad desde el 23
+sep
+Dormida
+Escritura y narrativa
+Capítulo 1 de la Crónica con
+aceptación pendiente
+Dormida
+Contenido para redes
+Skill de carruseles de Instagram;
+uso: NO HAY EVIDENCIA
+Dormida
+Inteligencia semanal
+Weekly Intelligence
+implementado, LIVE diferido
+desde el 28 ago
+Sin el contexto correcto
+(HIPÓTESIS)
+Gobierno de agentes para
+otros comercios
+Tu método funciona en MRPS y
+es independiente del rubro
+Sin el contexto correcto
+(HIPÓTESIS)
+Auditar afirmaciones de IA
+Lo haces a diario entre Claude,
+Codex y ChatGPT
+Cartografía cognitiva de Mauricio — Claude
+Page 20 of 29
+
+1. Precio y mayorista con costos verificados. Tienes costo efectivo para 3.424 líneas
+históricas y margen por línea; pocos comercios de tu tamaño tienen eso. Prueba: una
+revisión de precio de las 20 referencias más vendidas y medir el margen 30 días
+después.
+2. Contenido técnico como activo de adquisición. La Tabla de Equivalencias sumó 7.068
+impresiones en 28 días. De 33 fichas de pilas SR, 22 siguen THIN, y es la familia que más
+vende. Prueba: llevar 10 fichas THIN a RICH y comparar clics a 8 semanas.
+3. Un segundo humano operando. La lista de operadores, el acceso remoto con OIDC y la
+autoridad entre PCs ya existen y no se usan con otra persona. Prueba: que alguien
+registre ventas externas una semana sin tu intervención.
+4. Tu método como producto. AGENTS.md , la plantilla de misión, la convención de
+evidencia y la autoridad de escritura forman un sistema de gobierno de agentes
+reutilizable. Prueba: aplicarlo a un segundo negocio o proyecto y contar cuánto se
+reescribe.
+5. Sourcing comparado. Ya tienes consultas de precio en dos proveedores
+internacionales con conversión USD → CLP. Prueba: comparar el costo de reposición de
+las 10 referencias importadas más vendidas.
+19. Palancas
+Cinco palancas podrían multiplicar el valor de lo que ya construiste sin construir mucho
+más (INTERPRETACIÓN).
+Palanca
+Capacidad + contexto
+¿Qué podría producir 10 × más
+valor?
+Del diagnóstico a la
+decisión
+Tu verificación + margen por
+línea ya calculado
+Una misión semanal que termine
+en un cambio de precio, compra o
+publicación, no en un informe
+El canal grande
+Tus conectores + ORU, que
+concentra la mayoría de las
+ventas
+Aplicar el motor de
+oportunidades al local y a ML
+antes que a canales nuevos
+Otro humano
+Infraestructura de operadores ya
+construida + tu habilidad para
+escribir contratos
+Que una persona opere ventas
+externas y stock con tus reglas;
+tú quedas en excepciones
+Valor medido
+Calibración de tiempo humano
+ya programada
+Tres muestras manuales por flujo
+bastan para saber qué
+automatización vale y cuál sobra
+Cartografía cognitiva de Mauricio — Claude
+Page 21 of 29
+
+20. Cuellos de botella
+El cambio único que más capacidad liberaría: no abrir una misión sin escribir antes qué
+decisión de negocio cambia o cuántas horas tuyas ahorra, y no abrir otra hasta medirlo
+(INTERPRETACIÓN). Ese solo filtro ataca la expansión, los restos, tu atención nocturna y
+la falta de acción comercial a la vez.
+Palanca
+Capacidad + contexto
+¿Qué podría producir 10 × más
+valor?
+Contenido de pilas
+Gates de calidad visual ya
+probados en 162 fichas
+Llevar a RICH las 22 fichas THIN
+de la familia que más vende
+Tipo
+Cuello observado
+Evidencia
+Confianza
+Técnico
+Autenticación: OAuth de
+ML, logins de proveedores,
+sesiones de navegador
+ML fuera del Morning al
+menos del 9 al 12 sep
+Alta
+Cognitivo
+Cambio de contexto entre
+muchas sesiones paralelas
+Prompt de ML pegado en la
+ventana equivocada hoy
+Media
+Organizacional
+Una sola persona aprueba,
+verifica y opera
+Ningún otro operador
+visible
+Media
+Comercial
+La inteligencia no termina en
+decisiones de precio o
+surtido
+Duracell AA, F-91,
+conversión −27 % sin
+respuesta visible
+Media
+Operacional
+El sistema depende de que
+un nodo esté encendido
+"El nodo activo debe estar
+encendido"; sin failover
+Alta
+Atención
+Trabajo de noche y fines de
+semana
+49 % de commits entre
+20:00 y 03:00; 28 % en fin
+de semana
+Alta
+Priorización
+Las ideas nuevas compiten
+sin un filtro de valor
+Pausa del 18 sep
+sobrepasada en un día
+Alta
+Delegación
+Delegas trabajo a agentes,
+no decisiones a personas
+Toda aprobación de
+producción es tuya
+Media-
+alta
+Documentación
+Exceso, no falta: cada misión
+carga mucho contexto
+Register de 82 KB, cinco
+convenciones
+Media
+Cartografía cognitiva de Mauricio — Claude
+Page 22 of 29
+
+21. Arquetipo empresarial
+El arquetipo que mejor explica la evidencia es el de integrador-auditor: un dueño
+operador que construye y gobierna una fuerza de trabajo de IA, con el control de calidad
+como rasgo dominante (INTERPRETACIÓN, confianza media).
+Lo que no encaja: el estratega de mercado o de capital. No hay evidencia de decisiones
+sobre canales nuevos, inversión, contratación o posicionamiento.
+Componente
+Peso en la evidencia
+Por qué
+Arquitecto de sistemas
+de confianza
+Dominante
+Autoridad, evidencia, cierre y
+rollback diseñados antes que las
+funciones
+Constructor rápido vía
+agentes
+Fuerte
+376 commits en 43 días, con
+varios ejecutores
+Operador del negocio
+Fuerte en conocimiento,
+débil en rutina
+Eres la fuente de la verdad de
+unidades y costos; la fase de
+operación duró poco
+Integrador
+Fuerte
+Nueve fuentes conectadas
+(ORU, Jumpseller, ML, GA4,
+Search Console, Merchant,
+Business Profile, Google Ads,
+rendimiento web) en un solo
+panel
+Explorador
+Medio, de herramientas, no
+de mercados
+Muchas tecnologías nuevas; en
+canales, habilitaste mejor los
+existentes (inventario local en
+Merchant) más que abrir
+mercados nuevos
+Comerciante
+Presente, poco visible aquí
+Ofertas por formato y precio
+mayorista existen; decisiones
+comerciales casi ausentes del
+repo
+Optimizador
+Medio
+Optimizas rendimiento y costos
+de datos; poco precio y
+conversión
+Cartografía cognitiva de Mauricio — Claude
+Page 23 of 29
+
+22. README — Cómo trabajar con Mauricio
+Para personas y agentes. Escrito a partir de lo que Mauricio aceptó, corrigió y rechazó en
+el repo.
+Cómo presentarle un problema
+Empieza por el estado, la evidencia y lo que no sabes: ESTADO , EVIDENCIA , PENDIENTE ,
+RIESGO , SIGUIENTE PASO MÍNIMO .
+Marca cada afirmación como CONFIRMADO, PROBABLE o NO RESUELTO. Si mezclas
+hecho e inferencia, pierdes su confianza.
+Di qué sistema tocaría la solución y si se puede revertir.
+Qué información necesita y cuánto detalle
+Necesita la fuente, la fecha del dato y la cobertura. "Fresco" sin fecha no le sirve.
+Detalle alto en riesgos y en lo que no se pudo comprobar; bajo en la narración del
+proceso. Su regla: "No narrar clics, esperas ni navegación rutinaria".
+Para decidir, una sola acción dominante, no una lista de 100 alertas.
+Qué tareas darle
+Fijar la verdad comercial: qué es una unidad, qué costó de verdad, cómo se registra un
+canal.
+Escribir el contrato de una misión nueva: alcance, prohibiciones, condiciones de
+parada.
+Autorizar y aceptar escrituras en producción.
+Auditar la afirmación de otro agente o de otra persona.
+Qué tareas no darle
+Limpieza de ramas y worktrees: no la va a priorizar; conviene una misión propia o una
+persona.
+Operar a diario el mismo flujo cuando ya funciona: se va a aburrir y abrirá una mejora.
+Cargar a mano muestras de tiempo: el instrumento existe y no se ha alimentado.
+Cuándo desafiarlo
+Cuando proponga una capacidad nueva durante una fase que él mismo declaró de uso
+operacional.
+Cuando un informe termine sin una decisión de negocio o sin un monto.
+Cuando un control de seguridad agregue pasos manuales por transacción: él mismo
+revirtió uno así.
+Cuándo dejarlo explorar
+Cartografía cognitiva de Mauricio — Claude
+Page 24 of 29
+
+En lectura, en local y en lo reversible: ahí su velocidad es una ventaja.
+En la primera semana de un dominio nuevo, antes de cualquier escritura.
+Cómo convencerlo
+Con un dato verificable o una prueba que él pueda repetir. La autoridad no lo mueve; la
+evidencia sí.
+Con su propio costo operativo: el control por pedido cayó en 22 minutos cuando se vio
+lo que le costaba un lunes.
+Con un canario: 1 ítem, rollback listo, VERIFY en vivo.
+Señales de desviación
+Más de 20 commits en un día sobre capacidades que ninguna señal del negocio pidió.
+Una herramienta para gestionar el trabajo en lugar del trabajo (Mission Router,
+crónicas, paneles de paneles).
+Sesiones nuevas a medianoche sobre un frente distinto al que estaba cerrando.
+Cómo ayudarlo a cerrar
+Define el cierre antes de empezar, en términos del negocio y no solo del componente.
+Pide el siguiente paso mínimo y nada más; su propia tarea programada lo decía: "No
+continuar con mejoras fuera de esta misión".
+Al cerrar, pregunta qué rama, worktree o capacidad se elimina.
+Cómo no desperdiciar su capacidad
+No le pidas QA visual ni rutinas que otra persona puede hacer con sus reglas.
+No le traigas un hallazgo sin una propuesta de acción y su reversibilidad.
+Usa su tiempo en lo que solo él sabe: la verdad comercial y los límites de autoridad.
+23. Predicciones verificables
+Dieciséis predicciones evaluables entre abril y octubre de 2027 con git log , git
+worktree list y el Master Register.
+#
+SI
+PROBABLEMENTE
+PORQUE
+Confianza
+1
+Se conecta una
+fuente o canal
+nuevo (Meta,
+WhatsApp, Google
+Trends, otro
+marketplace)
+Lo primero será un
+conector READ_ONLY
+con canario, sin
+escrituras, en 14 días o
+menos desde el acceso
+Así entraron
+Jumpseller, ORU, ML,
+Business Profile, Ads
+y Merchant
+85 %
+Cartografía cognitiva de Mauricio — Claude
+Page 25 of 29
+
+#
+SI
+PROBABLEMENTE
+PORQUE
+Confianza
+2
+Declaras otra pausa
+o fase de
+consolidación
+En 7 días o menos
+aparece al menos una
+capacidad nueva que
+ninguna señal del
+negocio pidió
+Pausa del 18 sep y
+unos 80 commits
+nuevos del 19 al 23
+sep
+70 %
+3
+Una escritura nueva
+pasa su canario de 1
+ítem
+Pasa a lote en 7 días o
+menos y a ejecución
+programada en 30 o
+menos
+Stock de Jumpseller,
+stock de ML,
+catálogo
+70 %
+4
+No se lanza una
+misión explícita de
+limpieza
+A los 6 meses sigue
+habiendo 10 o más
+ramas sin integrar y 20 o
+más worktrees
+registrados
+Hoy son 13 y 40, sin
+limpieza en 6
+semanas pese a
+existir una política de
+ciclo de vida
+70 %
+5
+Un agente propone
+un control que
+suma pasos
+manuales por
+transacción
+Lo rechazas o
+simplificas en la misma
+sesión
+Reversión del control
+por pedido (18 sep)
+75 %
+6
+Aparece una señal
+de margen negativo
+o precio no
+competitivo
+Lo que queda en el repo
+es un análisis más fino,
+no una escritura de
+precio
+Duracell AA y F-91
+sin acción visible
+60 %
+7
+Pasan 6 meses
+El tiempo humano
+ahorrado sigue sin
+calibrar: menos de 3
+muestras manuales por
+flujo
+Instrumento
+construido el 21 sep,
+cero muestras
+65 %
+8
+Una fuente exige
+guardar o renovar
+credenciales
+La aíslas en un workflow
+propio en vez de
+permitir la renovación
+dentro de una lectura
+OAuth de ML aislado
+el 4 oct; logins
+humanos en
+proveedores
+80 %
+9
+Una escritura
+automática causa
+un incidente en
+producción
+En 48 horas hay un
+postmortem con gates a
+mantener, simplificar o
+eliminar, y la
+automatización sigue
+Case Record 001,
+postmortem del
+catálogo
+75 %
+Cartografía cognitiva de Mauricio — Claude
+Page 26 of 29
+
+24. Áreas desconocidas
+Pude observarte bien como director de agentes en las últimas seis semanas, y muy poco
+como comerciante, empleador o persona.
+Mucha evidencia
+Cómo formulas misiones, límites y criterios de cierre.
+#
+SI
+PROBABLEMENTE
+PORQUE
+Confianza
+10
+Pasan 12 meses
+Mission Router sigue sin
+commits nuevos
+Quieto desde el 3
+sep y reemplazado
+por una plantilla
+85 %
+11
+Pasan 6 meses
+Sigues usando al menos
+dos ejecutores de IA,
+cada uno con 15 % o más
+de los commits en
+alguna ventana de 8
+semanas
+Alternancia Codex,
+Claude Code, Codex
+70 %
+12
+Recibes un informe
+de IA sobre ti o el
+negocio, incluido
+este
+Pides fuente o clase de
+evidencia de lo que no
+te convence, en vez de
+aceptarlo o descartarlo
+en bloque
+Patrón UNVERIFIED
+en todos los
+dominios
+85 %
+13
+Pasan 3 meses
+El 40 % o más de los
+commits sigue cayendo
+entre 20:00 y 03:00
+Hoy es el 49 %
+70 %
+14
+Pasan 6 meses
+El Master Register
+supera 150 KB o se
+divide en varios
+documentos
+82 KB en 6 semanas,
+con crecimiento
+continuo
+60 %
+15
+Pasan 6 meses
+No hay un segundo
+humano con permiso de
+escritura operando
+ventas externas con
+regularidad
+La infraestructura
+existe y no tiene uso
+humano visible
+60 %
+16
+La Crónica no
+recibe una misión
+explícita
+A los 6 meses no hay
+capítulo 2 aceptado
+Aceptación del
+capítulo 1 pendiente
+desde el 22 sep
+60 %
+Cartografía cognitiva de Mauricio — Claude
+Page 27 of 29
+
+Cómo usas Claude Code, Codex y Cowork, y cómo los alternas.
+Tu relación con READ_ONLY, escrituras remotas, canarios, rollback y autoridad.
+Tu respuesta a errores de producción y tus postmortems.
+Tu ritmo de trabajo (horas, días, volumen).
+Evidencia parcial
+Conocimiento comercial: unidades, costos, reglas de canal, ofertas por formato.
+Priorización entre frentes y cambios de alcance.
+Uso de ChatGPT: un hilo citado, sin contenido.
+Proyectos abandonados: se ve que se detienen, no por qué.
+Desconocido
+Decisiones de precio, compras, proveedores e inventario fuera del sistema.
+Finanzas, caja, deuda, inversión y tolerancia al riesgo financiero.
+Personas: empleados, socios, clientes, negociación.
+Tu historia antes del 25 de agosto de 2026 y otros negocios.
+Lo que conversaste con Claude antes de esta sesión y lo que contiene CLAIUD.
+Motivaciones, emociones y vida fuera del trabajo.
+25. Nivel de confianza general
+Confianza media-alta para el perfil de ejecución técnica y baja para el perfil empresarial
+completo.
+Tres fuentes de error pesan sobre todo el informe:
+1. Texto escrito por agentes. Casi todo lo leído lo redactó un agente. Muestra lo que
+exigiste y aceptaste, no tus palabras; las únicas largas y literales son el brief de Mission
+Router, la tarea programada y los dos prompts de esta conversación.
+2. Sesgo de selección. Un repo registra lo que se construye, no lo que se decide en el
+mostrador. Por eso la acción comercial puede estar subestimada.
+Ámbito
+Parte observada (estimación gruesa)
+Confianza
+Tu trabajo con agentes, 25 ago – 6 oct
+60–70 %
+Media-alta
+Tu conocimiento comercial
+20–30 %
+Media-baja
+Mauricio como empresario completo
+10–15 %
+Baja
+Cartografía cognitiva de Mauricio — Claude
+Page 28 of 29
+
+3. Ventana corta e intensa. 43 días de construcción acelerada pueden no representar tu
+forma normal de trabajar.
+Observaciones que probablemente solo Claude podría ver
+Estos patrones salen de archivos, commits y carpetas, no de lo que contarías en una
+conversación.
+1. Los cierres son iterativos, no de un intento. En la raíz del repo hay 167 carpetas
+temporales de tests; 72 llevan sufijos como -final , -final2 , -rerun , -close3 o -
+retry . El "cierre" es un ritual que se repite hasta pasar.
+2. Corriges al agente cuando la seguridad se vuelve fricción. El commit del 18 sep 00:08
+lo dice: el control por pedido era "an operational restriction the owner never asked for".
+Revertido 22 minutos después de crearse.
+3. Tu dato vence a la heurística. La política de costos cambió en 16 minutos por un costo
+real tuyo (SR920SW = 1.030), guardado como evidencia del owner.
+4. El ejecutor cambia por bloques. Codex hasta el 6 sep, Claude Code del 7 al 20 sep con
+el 95 % de los commits en su primera semana, Codex de nuevo desde fines de
+septiembre.
+5. Trabajas con varias sesiones a la vez. Hoy pegaste aquí un prompt de otra sesión;
+cuatro minutos después, el repo registró "docs: close durable ML stock sync".
+6. Asignas presupuesto cognitivo a cada misión. Las misiones traen REASONING ,
+TOKEN_MODE y TOOL_LOAD . Tratas el razonamiento de la IA como un recurso con costo.
+7. Aplicas a tu biografía el mismo estándar que al código. La Crónica tiene una auditoría
+epistémica por afirmación, se detiene ante "psicología inventada" y deja
+mauricio_learnings: [] .
+8. Lo abandonado no se declara abandonado. Mission Router, MRPS_AI_OS, REMOTE-01
+y los scrapers de proveedores quedan quietos, sin un estado de cierre que lo diga.
+9. El primer cierre de producción tuvo una caída. En el release del PDP, un solo archivo
+desplegado rompió producción por una dependencia; hiciste tú el rollback y de ahí
+salió la regla "un deploy es una clausura de dependencias, no una lista de archivos".
+10. Te autoimpones límites por escrito y los sobrepasas por escrito. La regla
+OPERATIONAL_USE y los commits que la contradicen conviven en el mismo repo, a un
+día de distancia.
+11. Tu brief se vigila a sí mismo. "NO es otro fixture conceptual. NO crear otro subsistema
+interno." Lo escribiste dentro del meta-sistema que después dejaste quieto.
+Cartografía cognitiva de Mauricio — Claude
+Page 29 of 29
+
+
+============================================================
+REPORT 3 OF 4
+CRISTOBAL — CHATGPT
+SOURCE FILE: Cgpt.txt
+============================================================
+
+CARTOGRAFÍA COGNITIVA DE CRISTÓBAL
+Versión inicial basada en evidencia accesible — 6 de octubre de 2026.
+El patrón mejor sustentado es que utilizas la IA para convertir información y problemas reales en instrucciones, registros y sistemas reutilizables, y después buscas revisar lo construido. Hay evidencia de continuidad e iteración. Todavía no hay evidencia suficiente para afirmar que esa capacidad produce resultados empresariales excepcionales, ni para evaluar tu complementariedad con Mauricio.
+1. Evidencia disponible
+Revisé los mensajes recuperados de 49 chats: 134 intervenciones tuyas, fechadas entre el 17 de marzo y el 23 de septiembre de 2026. También revisé el inventario de 11 proyectos y tu protocolo actual. La consulta de chats archivados no devolvió resultados.
+Esto constituye una muestra del historial accesible, no una revisión completa de toda tu actividad. Algunas conversaciones solo devolvieron hasta cinco intercambios recientes, incluso cuando solicité diez. Los archivos e imágenes mencionados en esos chats no quedaron incorporados automáticamente como evidencia examinada.
+Usaré estas distinciones:
+- Hecho observado: un mensaje, instrucción o acción visible.
+- Patrón: recurrencia entre episodios.
+- Interpretación: explicación posible de esa recurrencia.
+- Hipótesis: afirmación pendiente de contrastar.
+- Autoimagen: lo que declaras sobre ti; no equivale a capacidad demostrada.
+- Confianza: solidez de la conclusión dentro de esta muestra.
+Una respuesta antigua que dice «listo», «guardado» o «terminado» no acredita por sí sola un resultado real.
+Estas son las principales fuentes que permiten auditar el análisis:
+Referencia	Fuente	Evidencia relevante
+E1	Revisión archivo logística	Definiste SKU, fechas, tratamiento de stock y ventana de consumo; continuaste con varias tandas de costos.
+E2	Análisis de remates judiciales	Pediste escenarios favorables y adversos, valoración de compra y una metodología reutilizable.
+E3	Análisis archivo asistencia	Solicitaste cruzar identificadores con personas y corroborar contra el archivo.
+E4	Diseño proceso registro ventas	Declaraste haber desarrollado la aplicación, pediste revisión y aportaste un ZIP.
+E5	Estado final proyecto	Pediste auditoría y después evaluación del esquema de organización del trabajo.
+E6	Negocio Inmobiliario PROP-001	Buscaste ordenar y respaldar con Drive, Obsidian y GitHub; pediste cerrar y guardar.
+E7	Ayuda con tareas pendientes	Externalizaste pendientes de empresa, inmobiliaria y vida personal; propusiste consultas más constantes sobre avance.
+E8	Entrenamiento lunes fuerza	Reportaste ejecución y cargas, introdujiste una restricción material y aceptaste adaptar el método.
+E9	Perfil Asistente Contabilidad	Definiste funciones, relación con contabilidad externa y uso del ERP.
+E10	Configuración conversiones Google Ads	Trajiste información previa y pediste ayuda paso a paso mediante capturas.
+E11	Recuperar prompt arquitecto	Continuaste una especificación extensa mediante instrucciones sucesivas.
+E12	Modificar fotos especificas	Especificaste una secuencia concreta de recargo e IVA y cómo comunicar el precio final.
+
+
+2. Trayectoria observable
+En marzo aparece trabajo sobre inventario, homologación y costos. En abril, análisis de propiedades, contratación, asistencia y entrenamiento. En mayo, seguimiento de ejecución física y clasificación de productos. En julio, aplicaciones, auditorías, organización documental y negocio inmobiliario. En agosto continúa la revisión de estructuras y la preparación comercial.
+Interpretación: durante esta ventana se observa un desplazamiento desde encargos sobre datos concretos hacia problemas de integración y arquitectura.
+Confianza: media-baja. La selección y disponibilidad del historial pueden explicar parte de esa secuencia. No puedo afirmar que sea una evolución permanente de tu comportamiento.
+3. Sistema cognitivo
+El circuito más visible es:
+Problema concreto → aportar contexto o material → pedir transformación → precisar reglas → continuar o implementar → revisar → guardar para reutilizar.
+Lo sostienen inventario, aplicaciones, remates y entrenamiento, aunque no todos muestran el ciclo completo.
+Las aceleraciones aparecen cuando existe un objeto definido: archivo, aplicación, propiedad, ejercicio o pendiente. Tus instrucciones suelen hacerse más específicas cuando hay algo sobre lo cual actuar.
+Los puntos de fricción observables son:
+- Reconstruir qué se hizo anteriormente.
+- Entender qué información puede consultar realmente cada herramienta.
+- Trasladar contexto entre conversaciones o plataformas.
+No hay evidencia suficiente para identificar abandono habitual, impulsividad, sobreinvestigación crónica o velocidad excepcional.
+4. Sistema de decisión
+Se observan tres recursos:
+1. Reglas concretas: periodos, formatos, condiciones y secuencias.
+2. Escenarios: especialmente en evaluación inmobiliaria.
+3. Recomendación seguida de avance: pides las mejores opciones y autorizas continuar.
+Una interpretación plausible es que utilizas el análisis para reducir incertidumbre hasta poder actuar, sin exigir dominar personalmente cada especialidad.
+Sin embargo, vemos muchas solicitudes de análisis y pocas decisiones finales con consecuencias documentadas. Confianza media sobre el método; baja sobre su eficacia.
+En cambios de opinión, el episodio más claro es E8: una restricción de equipamiento modifica el método aceptado. No alcanza para concluir qué evidencia te hace cambiar de opinión en decisiones comerciales, ni cuándo mantienes una hipótesis demasiado tiempo.
+5. Sistema de ejecución
+Etapa	Evidencia	Evaluación provisional
+Detectar	Señalas necesidades de orden, información y revisión.	Identificas problemas concretos; su importancia relativa no está medida.
+Idear	Propones combinaciones de herramientas y estructuras.	Participas en el diseño; no puede separarse toda aportación tuya de la IA.
+Investigar	Aportas material y solicitas escenarios y corroboración.	Conducta recurrente.
+Decidir	Estableces reglas y autorizas pasos siguientes.	Decisiones parciales visibles; calidad final desconocida.
+Comenzar	Inicias encargos y proyectos.	Evidencia clara de puesta en marcha.
+Construir	Declaras desarrollo y compartes una aplicación para revisar.	Hay un artefacto aportado; autoría, calidad y funcionamiento no auditados aquí.
+Terminar	Pides cerrar y guardar; completas sesiones reportadas.	Cierres acotados visibles; cierre empresarial desconocido.
+Operar	Existen seguimientos recurrentes, sobre todo en entrenamiento.	Evidencia parcial; operación empresarial sostenida desconocida.
+Optimizar	Iteras datos, métodos y estructuras.	Conducta recurrente.
+Escalar	No aparecen resultados longitudinales suficientes.	NO HAY EVIDENCIA SUFICIENTE.
+
+
+La muestra contradice una clasificación tajante de «solo tienes ideas»: hay continuidad y material construido. Tampoco permite clasificarte como un ejecutor excepcional.
+6. Inteligencia comercial
+La evidencia muestra atención a costos, inventario, condiciones de compra, escenarios adversos y claridad del precio comunicado.
+En E1 ajustas la ventana de consumo porque algunos productos son nuevos o tienen registros incompletos. Esto indica atención al contexto de los datos, aunque no verifica la corrección del cálculo posterior.
+En E2 pides evaluar una propiedad bajo condiciones distintas, incluido un escenario problemático. Esto acredita búsqueda de condiciones económicas de viabilidad, no rentabilidad realizada.
+En E12 diferencias recargo e impuesto mediante una secuencia explícita. No prueba dominio del margen comercial: recargar 30% sobre costo y obtener 30% de margen sobre venta son operaciones distintas.
+Dimensión	Evidencia disponible
+Costos, inventario y precio	Directa, aunque sin resultados comerciales comprobados.
+Marketing y medición	Parcial: participación en configuración y solicitud de guía.
+Proveedores y capital	Parcial: listas de costos y análisis de oportunidades.
+Demanda, posicionamiento y clientes	Insuficiente para evaluar capacidad.
+Margen realizado, flujo de caja, eficiencia y crecimiento	Sin resultados suficientes.
+Negociación y cierre de ventas	NO HAY EVIDENCIA SUFICIENTE.
+
+
+La ventaja candidata es hacer utilizable información comercial dispersa. Su efecto sobre ventas o beneficio sigue pendiente.
+7. Relación con riesgo
+Dominio	Conducta visible	Límite
+Financiero	Solicitas escenarios y precios máximos de compra.	No sabemos qué compras realizaste ni sus resultados.
+Operacional	Buscas controles de inventario, asistencia y ventas.	No sabemos si redujeron errores.
+Tecnológico	Avanzas con aplicaciones y luego solicitas auditoría.	No sabemos qué hallazgos corregiste.
+Reputacional	Sin episodios suficientes.	Desconocido.
+Incertidumbre	Pides análisis, recomendaciones y pasos concretos.	No equivale a tolerancia general al riesgo.
+Reversibilidad	No hay comparaciones suficientes entre decisiones reversibles e irreversibles.	Desconocido.
+
+
+Hipótesis: en tecnología aceptas avanzar antes de contar con certeza completa y buscas revisión posterior. Confianza media, limitada a los proyectos observados.
+8. Relación con información
+Patrón: buscas información que pueda convertirse en un registro consistente, una decisión o una instrucción.
+Hay evidencia de estandarización, cruces, fechas exactas, comprobación y reutilización.
+También existe una decisión concreta que merece revisión: en E1 pediste convertir stock faltante en cero. Eso facilita completar una tabla, pero puede borrar la diferencia entre «no sabemos el stock» y «sabemos que no hay stock».
+No sabemos si esa distinción se conservó en otra columna ni si produjo errores. Es un riesgo específico de representación, no prueba de negligencia.
+9. Relación con IA
+Las funciones observables incluyen:
+- Transformación y clasificación de información.
+- Investigación y análisis de escenarios.
+- Documentación y creación de métodos reutilizables.
+- Guía durante la ejecución.
+- Memoria de pendientes y puntos de reanudación.
+- Revisión de trabajo construido.
+La combinación más interesante es usar la IA antes, durante y después de una tarea.
+Externalizas explícitamente organización, redacción, parte del análisis y seguimiento. Sigues aportando contexto operativo, restricciones, datos y autorizaciones. No puedo determinar qué razonamiento permanece completamente en tu cabeza.
+En E4, la respuesta antigua describe a Claude como participante previsto en la implementación. Esto es evidencia indirecta de un flujo entre plataformas, no una medición de cuánto trabajaste allí. Incluyo al final un prompt para contrastarlo.
+10. Sistema de aprendizaje
+La evidencia más fuerte muestra:
+Explicación situada → ejecución reportada → retroalimentación → ajuste.
+En entrenamiento pides indicaciones, reportas cargas y repeticiones y adaptas el método a recursos disponibles. En idiomas solicitas correcciones y ajustas la dificultad. En Google Ads pides pasos sobre la pantalla concreta.
+Interpretación: aprovechas acompañamiento contextual y corrección sobre una tarea activa. Confianza media-alta dentro de esos ámbitos.
+Esto no permite asignarte un «estilo de aprendizaje» general ni concluir que aprendes dominios nuevos con velocidad extraordinaria.
+11. Fortalezas
+Las mejor sustentadas son:
+- Especificación concreta de necesidades: conviertes pedidos generales en reglas operativas.
+- Continuidad mediante iteración: vuelves con información adicional, avances o restricciones.
+- Búsqueda de verificación: solicitas corroboración y auditoría.
+- Reutilización de métodos: intentas conservar procedimientos para próximos casos.
+- Aporte de contexto real: introduces limitaciones que cambian el trabajo.
+Confianza media-alta sobre estas conductas. Su nivel frente a otras personas y su rendimiento económico no están establecidos.
+12. Costos ocultos de las fortalezas
+Fortaleza observable	Costo posible	Estado de la evidencia
+Estandarizar	Eliminar distinciones útiles entre datos.	Riesgo concreto en el tratamiento de stock faltante.
+Reutilizar contexto	Depender de una memoria que no se conservó o no es accesible.	Fricción visible en consultas sobre trabajo previo.
+Integrar herramientas	Añadir coordinación y dudas sobre dónde está la información oficial.	Hipótesis apoyada por solicitudes de organización.
+Pedir revisión	Crear una validación aparente si no se comprueban las correcciones.	No hay evidencia del cierre de auditorías.
+Ampliar especificaciones	Aumentar detalle sin aumentar proporcionalmente utilidad.	Posible; no demostrado.
+
+
+En E11 la IA produjo una especificación con cientos de secciones y tú pediste continuar. Eso no basta para atribuirte una tendencia a sobreconstruir: el tamaño y calidad también pueden ser consecuencia de cómo respondió la herramienta.
+13. Debilidades
+No hay base suficiente para calificarte como mediocre en una función empresarial.
+Sí aparecen vulnerabilidades en el flujo observado:
+- Incertidumbre sobre continuidad de memoria y acceso entre herramientas.
+- Poca trazabilidad recuperada entre análisis, decisión y resultado.
+- Una regla de limpieza de datos que podría confundir ausencia de información con ausencia de stock.
+La segunda puede deberse a cómo consulté el historial, no a cómo trabajas. No la presentaré como defecto personal demostrado.
+14. Sesgos posibles
+Son hipótesis para contrastar:
+- Confianza excesiva en persistencia: asumir que «guardado» implica recuperación fiable.
+- Confusión entre entrega y resultado: considerar suficiente un documento o aplicación sin comprobar uso e impacto.
+- Preferencia por resolver problemas mediante estructuras: introducir un sistema donde quizá bastaba una intervención menor.
+Hay indicios para las dos primeras; la tercera tiene confianza baja. No hay evidencia suficiente para atribuir exceso de confianza financiero, aversión a pérdidas o sesgo de confirmación persistente.
+15. Contradicciones
+Hay tensiones observables, pero no necesariamente incoherencias:
+- Buscas documentación extensa y, en ejecución diaria, también pides solo lo importante.
+- Pides autonomía y recomendaciones, pero solicitas guía paso a paso cuando la interfaz lo requiere.
+- Estandarizas reglas y a la vez las adaptas a restricciones reales.
+La explicación más parsimoniosa es ajuste del nivel de detalle a la tarea. No corresponde interpretar esto como impaciencia o inconsistencia sin más evidencia.
+16. Capacidades diferenciales
+La candidata principal es:
+Traducir contexto operativo a requisitos utilizables por personas y herramientas.
+Combinas conocimiento situado, reglas concretas y búsqueda de revisión en ámbitos distintos.
+Esto podría facilitar el trabajo entre especialistas. Para demostrar que es diferencial habría que comprobar que reduce aclaraciones, retrabajo o errores frente a una alternativa comparable.
+Confianza media en la capacidad candidata; baja en su carácter excepcional.
+17. Capacidades dormidas
+Categoría	Conclusión
+Bien utilizadas	Especificación, transformación de información y apoyo de IA, al menos dentro de los chats.
+Subutilizadas	No puede determinarse sin conocer uso e impacto fuera de los chats.
+Dormidas	NO HAY EVIDENCIA SUFICIENTE.
+Sin contexto adecuado	No puede establecerse con esta muestra.
+
+
+Una posibilidad a investigar es que tus métodos tengan más valor cuando los usa un equipo que cuando quedan como apoyo personal. Todavía es una hipótesis.
+18. Potenciales ocultos
+Tres combinaciones merecen pruebas:
+1. Contexto operativo + especificación + auditoría: coordinación de desarrollo de herramientas empresariales.
+2. Casos concretos + escenarios + reutilización: convertir experiencia en procedimientos de análisis transferibles.
+3. Seguimiento + restricciones + ajuste: sostener ciclos cortos de mejora.
+No están demostradas la capacidad de vender esas soluciones, conseguir adopción ni convertirlas en negocio.
+19. Palancas
+Propongo cuatro palancas experimentales, sin prometer multiplicaciones de valor:
+Capacidad observada	Estructura para probarla	Resultado a medir
+Especificar necesidades	Entregar requisitos breves a un ejecutor con criterio de aceptación.	Aclaraciones y retrabajo.
+Reutilizar métodos	Aplicar un procedimiento a varios casos comparables.	Tiempo, omisiones y calidad.
+Buscar revisión	Registrar hallazgo, corrección y comprobación.	Errores detectados y cerrados.
+Dar contexto	Mantener un registro único de decisiones y restricciones.	Tiempo perdido reconstruyendo antecedentes.
+
+
+20. Cuellos de botella
+No puedo identificar todavía un único cuello de botella personal.
+El candidato observable está en la continuidad del contexto: qué se hizo, dónde quedó y qué puede consultar la herramienta.
+Un cambio pequeño para contrastarlo sería mantener por proyecto:
+Estado actual · próxima acción · responsable · decisión pendiente · evidencia de terminado.
+Si reduce las consultas de reconstrucción y las omisiones, apoyaría esa hipótesis. Si no, habría que buscar otra explicación.
+21. Arquetipo empresarial
+La descripción provisional es:
+Integrador de contexto operativo y promotor de sistemas, con búsqueda recurrente de revisión.
+Tiene más respaldo que llamarte visionario, vendedor o negociador. «Constructor» cuenta con evidencia parcial por el artefacto aportado. «Operador» y «gestor» requieren observar mantenimiento, personas y resultados durante el tiempo.
+22. README — CÓMO TRABAJAR CONMIGO
+Estas instrucciones son provisionales y derivan del comportamiento observado:
+Situación	Forma de trabajar contigo
+Presentar un problema	Dar el caso concreto, su consecuencia y la decisión necesaria.
+Información inicial	Aportar material real, restricciones y antecedentes.
+Nivel de detalle	Comenzar con conclusión y próximo paso; conservar el detalle para revisión.
+Tareas apropiadas	Precisar requisitos, contextualizar datos y revisar coherencia operativa.
+Tareas sin validación suficiente	No asignarte todavía una especialidad por supuesta excelencia en venta, negociación o escala.
+Desafiarte	Señalar dónde una regla pierde información o dónde una afirmación carece de comprobación.
+Permitir exploración	Cuando hay una incertidumbre definida y un límite de tiempo o esfuerzo.
+Convencerte	Probar primero con comparación concreta o ensayo pequeño; su eficacia empresarial queda por verificar.
+Detectar desviación	Revisar si aumentan documentos y herramientas sin avanzar la decisión o el resultado.
+Ayudarte a terminar	Separar entrega, aceptación, uso y resultado; registrar cada estado.
+Aprovechar tus capacidades	Darte acceso al contexto y cerrar el circuito entre requisitos y ejecución.
+
+
+23. Predicciones verificables
+Son predicciones sobre interacciones futuras comparables. No son pronósticos de éxito empresarial.
+Si ocurre…	Probablemente harás…	Porque…	Confianza
+Recibes una tabla inconsistente	Pedirás ordenar identificadores, formatos o categorías.	E1 y E3.	Alta
+Un registro mezcla periodos o antigüedades	Introducirás una condición sobre el periodo relevante.	E1.	Media
+Una tarea devuelve un resultado incompleto	Aportarás una tanda adicional de información.	E1.	Media-alta
+Un análisis resulta útil	Pedirás guardarlo como método o prompt.	E2 y E6.	Media-alta
+Una aplicación llega a una primera versión	Buscarás revisión de lo realizado.	E4 y E5.	Media-alta
+Una instrucción depende de una interfaz desconocida	Pedirás pasos y aportarás capturas.	E10.	Media
+Una restricción impide seguir el método	Buscarás adaptar el método.	E8.	Media
+Un proyecto involucra varios repositorios	Pedirás una forma de organizar y respaldar.	E5 y E6.	Media
+Retomas un trabajo después de una pausa	Preguntarás qué hicimos o dónde quedamos.	E6 y E7.	Media-alta
+Evalúas otra oportunidad inmobiliaria	Solicitarás riesgos, escenarios y condiciones de compra.	E2 y casos posteriores.	Media
+Pides apoyo durante ejecución diaria	Preferirás indicaciones centradas en la acción inmediata.	Entrenamiento y E10.	Media-alta
+El resultado depende de datos identificables	Pedirás corroboración con la fuente.	E3.	Media
+
+
+Para revisarlas entre abril y octubre de 2027, registrar cada ocasión elegible como confirmación, refutación o resultado indeterminado. Una predicción sin ocasión de prueba no cuenta como acierto.
+24. Áreas desconocidas
+Más evidencia: instrucciones a la IA, organización de información, revisión solicitada y seguimiento conversacional.
+Evidencia parcial: construcción técnica, decisiones comerciales, contratación, adaptación y cierre de tareas.
+Desconocido: resultados económicos, ventas cerradas, negociación, liderazgo, conflictos, delegación efectiva, proyectos abandonados, mantenimiento empresarial sostenido y desempeño de Mauricio.
+Porcentaje de actividad real observada: no estimable responsablemente. Revisé los mensajes recuperados de los 49 chats listados, pero desconozco el total de tu actividad, el historial omitido y el trabajo fuera de estas conversaciones. Convertir esa cobertura en un porcentaje de tu vida laboral sería inventarlo.
+25. Nivel de confianza general
+- Medio-alto: recurrencias en tus solicitudes e instrucciones.
+- Medio: descripción de tu circuito de trabajo con IA.
+- Bajo: capacidades empresariales transferibles y causas de los patrones.
+- Insuficiente: excelencia relativa, capacidades dormidas, resultados y complementariedad con Mauricio.
+La conclusión operacional actual es: hay evidencia para probar que aportas valor traduciendo problemas reales a estructuras ejecutables y revisables. La prueba pendiente es cuánto mejora la ejecución y el resultado cuando intervienes.
+La segunda fase Mauricio–Cristóbal queda pendiente hasta disponer de evidencia individual de ambos.
+Prompt para Claude
+Incluyo este prompt porque el historial contiene indicios de un flujo de implementación con Claude. No presupone que allí exista evidencia suficiente.
+Quiero una CARTOGRAFÍA COGNITIVA DE CRISTÓBAL basada exclusivamente
+en mi comportamiento histórico visible en esta plataforma.
+
+Usa conversaciones, memoria accesible, proyectos, archivos y decisiones
+reales que puedas consultar. Empieza inventariando qué revisaste,
+qué no pudiste consultar y qué periodos cubres. No empieces con un
+cuestionario ni afirmes acceso a fuentes que no tienes.
+
+Trabaja como investigador de decisiones y sistemas de trabajo.
+El objetivo es reconstruir cómo pienso, decido y ejecuto, buscando
+también evidencia que refute tus interpretaciones.
+
+Distingue en cada conclusión:
+HECHO OBSERVADO / PATRÓN / INTERPRETACIÓN / HIPÓTESIS /
+AUTOIMAGEN / NIVEL DE CONFIANZA.
+
+Cita conversación, proyecto, fecha y episodio concreto.
+Diferencia mis aportaciones de las tuyas y del contenido que yo haya
+copiado de otra IA. Una propuesta de la IA no demuestra una capacidad
+mía. “Listo”, “guardado” o “terminado” tampoco demuestra funcionamiento,
+adopción o resultados.
+
+Busca recurrencias, contradicciones y contraejemplos.
+Escribe NO HAY EVIDENCIA SUFICIENTE cuando corresponda.
+No construyas un relato agradable ni defectos artificiales.
+Separa conocimiento, experiencia, capacidad, ejecución y resultado.
+
+Analiza:
+- Ciclo cognitivo real: aceleraciones, bloqueos, pérdidas, repetición,
+  abandono, sobreinvestigación, subinvestigación y corrección.
+- Detectar, idear, investigar, decidir, comenzar, construir, terminar,
+  operar, optimizar y escalar, por separado.
+- Inteligencia comercial: precio, margen, competencia, demanda,
+  proveedores, clientes, posicionamiento, marketing, producto,
+  inventario, caja, tecnología, crecimiento, eficiencia, capital
+  y oportunidad.
+- Riesgo financiero, operacional, reputacional y tecnológico;
+  incertidumbre y decisiones reversibles e irreversibles.
+- Funciones que cumple la IA y pensamiento que externalizo.
+- Mecanismos de aprendizaje y cambio de opinión.
+- Capacidades diferenciales, potenciales ocultos, capacidades dormidas
+  o subutilizadas y costos reales de las fortalezas.
+- Entre 3 y 7 palancas, solo con sustento; posibles cuellos de botella.
+- Un arquetipo funcional provisional, sin tests de personalidad.
+
+Entrega estas 25 partes:
+1. Evidencia disponible
+2. Trayectoria observable
+3. Sistema cognitivo
+4. Sistema de decisión
+5. Sistema de ejecución
+6. Inteligencia comercial
+7. Relación con riesgo
+8. Relación con información
+9. Relación con IA
+10. Sistema de aprendizaje
+11. Fortalezas
+12. Costos ocultos de las fortalezas
+13. Debilidades
+14. Sesgos posibles
+15. Contradicciones
+16. Capacidades diferenciales
+17. Capacidades dormidas
+18. Potenciales ocultos
+19. Palancas
+20. Cuellos de botella
+21. Arquetipo empresarial
+22. README: cómo trabajar conmigo
+23. Entre 10 y 20 predicciones verificables: condición, conducta
+    esperada, evidencia, confianza y criterio de refutación
+24. Áreas desconocidas y cobertura aproximada; no inventes porcentajes
+25. Nivel de confianza general
+
+El README debe explicar cómo presentarme problemas, qué información
+y detalle darme, qué tareas asignarme o no, cuándo desafiarme o dejarme
+explorar, cómo convencerme, detectar desviación y ayudarme a terminar.
+
+Pregunta solo ante una contradicción crítica o un vacío que impida
+distinguir hipótesis relevantes. Haz pocas preguntas.
+
+No leas ni adoptes el informe de otra IA antes de producir el tuyo:
+necesitamos una observación independiente. No analices todavía la
+complementariedad con Mauricio. Este informe será contrastado después
+con otro, conservando diferencias y contradicciones entre fuentes.
+
+============================================================
+REPORT 4 OF 4
+CRISTOBAL — CLAUDE
+SOURCE FILE: Cclau.txt
+============================================================
+
+Ya revisé tus 921 mensajes de los transcripts locales (19-ago a 06-oct); ahora leeré una última muestra de preguntas y mensajes largos antes de redactar el informe.
+
+# Cartografía cognitiva de Cristóbal (observación independiente, v1)
+
+Etiquetas: **HO** hecho observado · **PA** patrón · **IN** interpretación · **HI** hipótesis · **AI** autoimagen · **C** confianza (A/M/B).
+
+---
+
+## 1. Evidencia disponible
+
+**Revisé**
+- 39 transcripts locales de Claude Code, del 19-Ago al 06-Oct-2026. De ellos extraje 921 mensajes tuyos: 520 en `C:\cousino-admin`, 351 en el repo viejo en Drive, 32 en `personal-admin` y 18 en `sio`.
+- `CLAUDE.md` del repo y la memoria acumulada (7 archivos).
+- El historial de git: 546 commits, del 30-Jun al 06-Oct.
+- La lista de sesiones de la app (7 sesiones).
+
+**No pude consultar**
+- Conversaciones en claude.ai web o móvil.
+- Cualquier historial de antes del 19-Ago, salvo lo que `CLAUDE.md` resume.
+- El contenido real de Drive, Gmail, WhatsApp y Neon.
+- Resultados de negocio medidos de forma independiente (ventas, margen, caja reales).
+- Los transcripts de `C--sio` no son tuyos: son pruebas sintéticas del pipeline y los excluí.
+
+**Sesgos de la fuente**
+- `CLAUDE.md` está escrito por sesiones de Claude, no por ti. Atribuyo una decisión a Cristóbal solo cuando hay un mensaje tuyo que la sustenta o el texto dice "decisión de Cristóbal".
+- Hay mensajes "tuyos" que son salidas de otra sesión de Claude pegadas, no tu pensamiento. Ejemplos: "Revisa el output del comando en background" (19-Ago) y "Pendiente marcado como importante por vos…" (21-Sep). Los excluí del análisis cognitivo.
+- Las 3 sesiones iniciales son de ~7 semanas; solo hay un trimestre de trayectoria, y en un solo ámbito (Cousiño).
+
+---
+
+## 2. Trayectoria observable
+
+- **HO:** del 30-Jun al 06-Oct hay actividad casi diaria en el repo. Hay picos de 20-32 commits en un día: 04 y 06-Ago, 26-Ago, 30-Sep, 05-Oct.
+- **HO:** el trabajo se expandió de un repo de KPIs a un ecosistema de al menos 6 piezas: `cousino-admin`, `cousino-bi`, `cierre-diario`, `sio`, `cousino-marketing-intel` y `conecta`.
+- **PA:** el foco cambia por bloques. Se vio operaciones e inventario en agosto, infraestructura en septiembre (migración fuera de Drive el 19-Sep), marketing y precios a fin de septiembre y despacho y SIO a comienzos de octubre. Las prioridades se declaran explícitamente: "Marketing es el desarrollo principal hasta fin de 2026" (21-Sep).
+- **C:** A para la actividad, M para el foco declarado.
+
+---
+
+## 3. Sistema cognitivo
+
+- **PA (C: A):** piensas en **reglas explícitas y sistemas**, no en casos sueltos. Ejemplos:
+  - Precios por múltiplo de línea con una regla de que nada baja (30-Sep).
+  - "Sin factura y rebaje de inventario no hay venta" (02-Oct).
+  - La cantidad de WIP como base para medir tiempos de producción.
+- **HO:** exiges **trazabilidad a la fuente**. Preguntas "¿Dónde estás trabajando esto? ¿En qué archivo?" (30-Sep) y "¿Estamos hablando de este archivo?" (17-Sep).
+- **PA:** mides por **cruce contra la realidad física**. Casos: confirmaste a mano que MRC200 era 1 y no 4 (27-Ago), y cuestionaste los 54 días de CH70BMC porque "no cuadra con la realidad" (15-Sep).
+- **IN:** piensas desde la operación hacia arriba (inventario, despacho, caja) más que desde la estrategia hacia abajo. **C: M.**
+- **NO HAY EVIDENCIA SUFICIENTE** sobre cómo piensas fuera de Cousiño. Solo hay 32 mensajes personales y no los analicé en detalle por ser sensibles.
+
+---
+
+## 4. Sistema de decisión
+
+- **PA:** decides rápido y corto sobre opciones que **yo** presento. Hay 95 aprobaciones breves ("sí", "hazlo", "bien") y una mediana de 44 caracteres por mensaje.
+- **PA:** a menudo eliges la versión **conservadora** cuando el costo de error es de datos o dinero. Casos:
+  - "Prefiero la versión más conservadora, deja pendientes las dudosas" (25-Ago).
+  - "Prefiero calidad antes que velocidad" (24-Ago).
+  - Opción 3 descartada: "no está en mis intenciones liquidar mis inversiones" (24-Ago).
+- **PA:** **cierras pendientes por decisión** en vez de agotarlos:
+  - Cierre Diario de julio y agosto: los casos sin declarar se dejaron como excepciones.
+  - Tesorería de septiembre cerrada al 73,6% (05-Oct), dejando 66 movimientos como "descartado".
+  - 35 movimientos de agosto descartados el 25-Sep.
+- **HO:** ajustas parámetros **por el efecto en el cliente** al verlos calculados. El 30-Sep dijiste: "bájalos a 2,6x y 2,85x", porque las R subían 20-26%. Después fijaste "la R100 déjala a 3x".
+- **IN:** decides con criterio de riesgo reversible vs. irreversible, pero no lo formulas así. **C: M.**
+
+---
+
+## 5. Sistema de ejecución
+
+- **HO:** **delegas la ejecución técnica casi por completo** en Claude y en agentes automáticos. Tus mensajes son cortos, pegas errores de terminal y pides la corrección.
+- **PA:** ejecutas tú mismo lo que requiere permisos o identidad, como `vercel login`, `gh secret set` y compartir archivos en Drive.
+- **PA:** pasas de "construido" a "operando" mediante recordatorios automáticos. El 05-Oct pediste nuevos: comprobantes de publicidad el día 5, flujo de caja los lunes, solo a ti por ahora. También estableces cadencia: "Me interesa un informe diario" (30-Sep).
+- **HO:** hay ejecución que se detuvo o quedó sin avanzar, según el propio `CLAUDE.md` (escrito por Claude, **C: M**):
+  - Flujo de caja de 13 semanas: sin avance durante el semestre hasta que corrigió el bug (15-Sep) y se creó el recordatorio (05-Oct).
+  - Cousiño Conecta: 6 semanas sin avance (24-Ago).
+  - Planilla de categorización de Tesorería: nunca devuelta por Contabilidad.
+- **IN:** tu fase más fuerte es **comenzar y operar** (detección, arranque y puesta en marcha). La fase "terminar con adopción real por terceros" es la menos evidenciada. **C: M.**
+
+---
+
+## 6. Inteligencia comercial
+
+| Dimensión | Evidencia | Etiqueta |
+|---|---|---|
+| **Precio y margen** | Múltiplos por línea con ajuste al ver el impacto en cliente (30-Sep). TU1000 vendido al costo "por instrucción explícita" para liquidar. | HO/PA, C: A |
+| **Costo** | Pediste cruzar 54 importados contra costeo real y los cuestionas cuando no cuadra. | HO |
+| **Proveedores** | Buscas mapa de fábricas: "lo relevante es determinar qué más produce esa fábrica en China" (17-Sep). | HO |
+| **Marketing** | Auditoría de Google Ads, decisión de Shopping estándar, presupuesto de partida de $1M/mes, criterio CPA ≤$4.500 y CPC ≤$170. Reactivación escalonada. | HO, C: A |
+| **Atribución** | Campo obligatorio "origen del cliente" en Cierre Diario. | HO |
+| **Inventario y caja** | Valorización, cheques por cobrar, Tesorería, flujo de 13 semanas. | HO |
+| **Competencia** | Scraper revivido; "¿corrió el scraper?" (29-Sep). | HO |
+
+- **IN:** tu inteligencia comercial visible es de **control y medición**: costos, márgenes, atribución, caja. Hay mucha menos evidencia de **creación de demanda**, como nuevos clientes, canales o posicionamiento. **C: M.**
+- **HO:** las ventas de 2026 van -6,0% en ene-sep y T3 -18,5% (según `CLAUDE.md`, cifra ERP preliminar). **NO HAY EVIDENCIA SUFICIENTE** de que ninguno de los sistemas construidos haya mejorado ventas o margen.
+
+---
+
+## 7. Relación con riesgo
+
+- **PA:**
+  - Aversión al riesgo de datos y de caja: respaldos, conservador, doble verificación.
+  - Aversión al gasto recurrente en herramientas: "No quiero recargar ni usar fondos en esta API Key" (24-Sep). Esto provocó la migración de SIO a suscripción (29-Sep).
+  - Tolerancia alta al riesgo operativo de experimentar con sistemas en producción propia (desplegar a producción con frecuencia).
+- **HO:** pegaste una cadena de conexión de base de datos con contraseña en el chat (24-Ago), pese a existir `SEGURIDAD.md`. También preguntaste si subir un `.py` era riesgo de seguridad (17-Sep). **Contradicción:** hay conciencia de seguridad y también hábitos laxos.
+- **IN:** el riesgo reputacional hacia terceros (correos a vendedores y contabilidad con tono firmado "por el sistema SIO") lo aceptas con mensajes bastante directos. **C: B.**
+
+---
+
+## 8. Relación con información
+
+- **PA:** quieres **más información, ordenada y verificable**. Pides inventarios ("¿qué tenemos pendiente?", "¿quién falta por categorizar?") y preguntas en forma cerrada (134 preguntas de 921 mensajes).
+- **PA:** desconfías de datos que parecen inverosímiles, pero a veces la corrección la hace el sistema, no tú (sesgo de confirmación posible, ver 14).
+- **HO:** aceptas incertidumbre explícita ("estimar con junio mientras confirman", 14-Sep) y prefieres un número estimado, marcado, a esperar.
+- **IN:** no sobreinvestigas por tu cuenta; **delegas la investigación** y la evalúas por plausibilidad. **C: M.**
+
+---
+
+## 9. Relación con IA
+
+- **HO:** la IA cumple, al menos, 6 funciones: ejecutor de código, analista de datos, redactor de correos, auditor, memoria externa (`CLAUDE.md`) y recordatorio.
+- **PA:** externalizas **memoria de estado** casi totalmente ("Ponme al día", "¿qué tenemos pendiente?"). El `CLAUDE.md` mide más de lo que un humano lee completo.
+- **PA:** corriges a la IA con **un dato de realidad**, no con teoría:
+  - "Recuerda que no quiero nombres: Bodega o bodeguero" (24-Ago).
+  - CH70BMC 54 días (15-Sep).
+  - "Estos procesos no los veo, ¿qué pasó que los omitiste?" (17-Sep).
+  - "Los objetivos eran con IVA ya que tú lo calculaste" (30-Sep).
+- **IN:** usas la IA como **extensión de operación**, y la validas por contraste con realidad física. **C: A.**
+- **Límite:** una propuesta de la IA no es evidencia de capacidad tuya. Los diseños de arquitectura (Monte Carlo, Little's Law, SIO) son mayoritariamente míos (de Claude). Tu aporte visible es el criterio de aceptación, las restricciones y la corrección.
+
+---
+
+## 10. Sistema de aprendizaje
+
+- **PA:** aprendes **por contacto con el error operativo**, no por estudio previo. Cambias de criterio cuando el dato te contradice. Ejemplos:
+  - Revertiste los múltiplos al ver +26%.
+  - Aceptaste que la fórmula de ROAS estaba inflada (23-Sep).
+  - Aceptaste que las notas de crédito contaban como venta.
+- **HO:** lo que aprendes queda **escrito en el sistema** (reglas, recordatorios, `CLAUDE.md`), no necesariamente en tu cabeza.
+- **NO HAY EVIDENCIA SUFICIENTE** de aprendizaje conceptual propio (por ejemplo, que expliques solo por qué Little's Law funciona). Tienes preguntas operativas ("¿cómo abro Google Drive?", 23-Sep) junto a decisiones sofisticadas, lo que indica que la sofisticación es en parte prestada.
+
+---
+
+## 11. Fortalezas (con evidencia)
+
+1. **Detección de incoherencia con realidad física** (15-Sep, 17-Sep, 27-Ago). C: A.
+2. **Criterio de aceptación claro** sobre lo que Claude entrega. C: A.
+3. **Voluntad de cerrar** y de declarar descartado (Tesorería, Cierre Diario). C: A.
+4. **Visión integrada** de áreas (ventas, caja, inventario, despacho). C: M.
+5. **Disciplina de cadencia**: informe diario, recordatorios, cierre de mes. C: M.
+
+## 12. Costos ocultos de las fortalezas
+
+- **El sistema de control crece más rápido que su adopción.** Cada hallazgo genera un recordatorio, un script o un campo obligatorio. Esa carga recae en áreas que, según el registro, no responden: Contabilidad no devolvió la planilla (0/89) y Finanzas "no está viendo" el flujo de caja. **HI.** Un dato visible: correos de recordatorios enviados solo a ti "por ahora".
+- **Dependencia de ti como validador único.** Casi todo requiere tu confirmación; la IA espera tu "sí". **IN, C: M.**
+- **Fragmentación en repos y herramientas**: costo de mantenimiento creciente (corrupción de `.git` en Drive, claves que expiran, crons que fallan por semanas sin aviso). **HO.**
+
+## 13. Debilidades
+
+- **Delegar sin verificar el cierre del circuito humano.** Varios correos de petición no tienen respuesta registrada. **C: M.**
+- **Higiene de credenciales** (pegar una cadena de conexión en el chat). **HO, C: A.**
+- **Tendencia a depender del recordatorio automático** para que otros actúen, en lugar de cambiar el responsable. **IN, C: B-M.**
+
+## 14. Sesgos posibles (todos HI)
+
+- **Sesgo de sistematización:** ante un problema comercial, la respuesta es medir y automatizar. C: M.
+- **Sesgo de confirmación en la validación:** la IA te presenta el trabajo y tú contrastas solo lo que "huele" mal. C: B.
+- **Anclaje en números cerrados** ("decidí cerrar al 73,6%") sin evaluar el costo de lo descartado. C: B.
+- **Aversión al gasto recurrente pequeño** (API) frente a tolerancia a deuda de mantenimiento. C: M.
+
+## 15. Contradicciones
+
+1. Marketing es "el foco principal", pero las sesiones muestran más horas en BI, tesorería, despacho y SIO (**HO** por commits; el dominio marketing tuvo su pico el 30-Sep).
+2. "Prefiero calidad a velocidad" (24-Ago), pero muchos días con 20-32 commits y decisiones rápidas con aprobaciones breves.
+3. Conciencia de seguridad (17-Sep) vs. credencial pegada (24-Ago).
+4. Quieres terceros operando el sistema, pero en varios casos terminaste asumiendo tú la tarea (flujo de caja, "prefiero correrlo yo mismo", 14-Sep).
+5. Rechazas gasto en la API, pero aceptas infraestructura distribuida (4 repos, Vercel, Neon, GitHub Actions).
+
+## 16. Capacidades diferenciales
+
+- **Integración operativa extremadamente amplia** (producción, bodega, comex, finanzas, ventas, marketing) en una sola persona, lo que permite detectar inconsistencias entre áreas. C: M-A.
+- **Corrección fundada en realidad**: detectas errores que no vienen de los datos. C: A.
+
+## 17. Capacidades dormidas
+
+- **HI:** tu criterio de precio y cliente parece más fino que lo que se refleja en los sistemas construidos. Se podría explotar con experimentos comerciales (ofertas, segmentos), no solo con controles.
+- **HI:** la capacidad de decidir el cierre y declarar descarte podría aplicarse a **eliminar** sistemas y frentes (por ejemplo Conecta), no solo a cerrar pendientes. No hay evidencia de que lo hayas hecho.
+
+## 18. Potenciales ocultos
+
+- **HI, C: B:** convertir el aprendizaje operativo acumulado en **producto o servicio para terceros** (la consultora): el sistema de control que construiste es transferible. No hay evidencia de intención ni de demanda.
+- **HI, C: B:** el volumen de datos de atribución (origen del cliente) permite, en 2-3 semanas, el primer análisis de qué canal convierte, hoy inexistente.
+
+## 19. Palancas (3-7, con sustento)
+
+1. **Medir resultado comercial, no solo proceso.** Hoy hay muchos controles y casi ningún indicador de si las ventas mejoran por una acción concreta (ventas por origen, CPA, `generate_lead`).
+2. **Cambiar la propiedad de las tareas recurrentes.** Pasar de recordatorio automático a responsable con consecuencia (flujo de caja, categorización).
+3. **Reducir el número de frentes activos.** Cada frente nuevo (marketing-intel, SIO, Conecta) consume tu atención de validación.
+4. **Usar tu ojo físico como protocolo.** Documentar los 5-6 chequeos que haces tú ("¿cuadra con la realidad?") para que los ejecute el sistema.
+5. **Ensayar decisiones comerciales reversibles** (precio, oferta, canal) con ventana corta y criterio de refutación explícito, como ya haces con Ads.
+
+## 20. Cuellos de botella
+
+- **Tu tiempo de validación** (todo pasa por tu "sí").
+- **Respuesta de áreas** (Contabilidad, Finanzas, Bodega): evidencia de varias peticiones sin devolución registrada.
+- **Costo de tokens y estabilidad de infraestructura** (saldo de API, tokens OAuth, crons con retraso de 3-7 horas).
+
+## 21. Arquetipo empresarial (provisional)
+
+**Operador-controlador de sistemas ("arquitecto de control con ojo de planta").** Detecta incoherencias contra la realidad física, construye reglas y mecanismos de cierre, y delega la ejecución en máquinas. Es más fuerte en control, medición y cierre que en generación de demanda. **C: M.**
+
+## 22. README: cómo trabajar contigo
+
+- **Presentar problemas:** una frase con el síntoma y el dato que no cuadra ("CH70BMC 54 días"). Responde mejor a un caso concreto que a una teoría.
+- **Información y detalle:** resumen primero (2-3 líneas), tabla o lista de decisiones numeradas y la recomendación al final. Usas "A y B", "Opción 3".
+- **Qué asignarte:** decisiones con criterio de negocio, validación contra realidad física, aprobaciones de envío a terceros. **Qué no:** revisar código línea a línea, configurar credenciales por chat.
+- **Cuándo desafiarte:** cuando cierras algo por decisión sin medir el costo de lo descartado; cuando un frente nuevo se suma sin cerrar otro; ante credenciales en el chat.
+- **Cuándo dejarte explorar:** precios, ofertas y experimentos comerciales con reversión fácil.
+- **Cómo convencerte:** con un dato de tu realidad (cifra, SKU, factura) y la consecuencia para el cliente o la caja. Funcionó con ROAS inflado y notas de crédito.
+- **Detectar desviación:** más de 2 frentes nuevos en una semana; respuestas de áreas sin cierre; mensajes de una línea con "sí" repetido en cadena (probable validación superficial).
+- **Ayudarte a terminar:** definir de antemano el criterio de cierre y el responsable humano, con fecha. Preguntar "¿quién lo opera en 30 días y qué cambia si no lo hace?".
+
+## 23. Predicciones verificables (12)
+
+| # | Condición | Conducta esperada | Evidencia a mirar | C | Refutación |
+|---|---|---|---|---|---|
+| 1 | Aparece una cifra que "no cuadra" | La cuestionas con un ejemplo concreto en 1-2 mensajes | Mensajes siguientes | A | Aceptas la cifra sin preguntar 3 veces seguidas |
+| 2 | Claude propone 3 opciones | Eliges con una frase corta, favoreciendo la conservadora si hay riesgo de datos o dinero | Respuestas | M | Eliges la agresiva ante riesgo de datos |
+| 3 | Un área no responde un correo tras 5 días | Asumes la tarea tú o recortas el alcance, no escalas formalmente | Registro | M | Reasignas con consecuencia explícita |
+| 4 | Nuevo gasto recurrente en herramientas | Buscas alternativa sin pago (precedente 24-Sep) | Mensajes | A | Recargas saldo sin discutirlo |
+| 5 | Un precio sube >20% para clientes | Lo reduces | Pedidos | M | Mantienes la subida |
+| 6 | Quedan pendientes viejos | Los cierras por decisión | Estado de registros | A | Quedan abiertos >60 días |
+| 7 | Resultados de campañas Ads de octubre | Decides con el criterio CPA ≤ $4.500 | Decisión en 4 semanas | M | Cambias criterio sin dato |
+| 8 | Nueva idea de sistema | La construyes antes de medir el resultado de la anterior | Commits | M | Esperas resultado antes de construir |
+| 9 | Se publica un reporte diario | Revisas y pides ajustes de formato, no de fondo | Mensajes | M | Pides cambios de fondo |
+| 10 | Falla un cron o credencial | Lo detectas tarde (días) | Registro | M | Detectas el mismo día |
+| 11 | Se cae un servicio con fecha de viaje próxima | Priorizas dejar automatizado | Mensajes | M | Lo dejas manual |
+| 12 | Aparece un dato sobre ventas por origen | Pides el cruce antes de decidir inversión | Mensajes | B | Decides sin cruce |
+
+## 24. Áreas desconocidas (sin porcentajes inventados)
+
+- Trayectoria previa a junio: **desconocida**.
+- Decisiones comerciales cara a cara (clientes, proveedores): **no visibles**.
+- Vida personal e inversiones: **solo trazas**, no analizadas.
+- Resultados reales de cada sistema: **no verificados**.
+- Cobertura: **parcial en comportamiento digital reciente; casi nula en resultados y en pensamiento no digital**.
+
+## 25. Nivel de confianza general
+
+**Media-baja.** Es alta para el estilo de trabajo en estas 7 semanas y baja para capacidades, resultados y rasgos estables. "Listo" y "desplegado" aparecen mucho, pero casi nunca hay evidencia de adopción o impacto.
+
+---
+
+**Dos preguntas que cambiarían hipótesis relevantes:**
+1. ¿Hay indicadores de resultado (ventas, margen, caja) que atribuyas a alguno de estos sistemas? Eso separaría "ejecución" de "resultado".
+2. ¿Hay conversaciones previas (claude.ai u otras) que quieras que cuente como evidencia? Hoy no las veo.
+
+============================================================
+END OF DOCUMENT
+============================================================
